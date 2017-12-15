@@ -1,0 +1,1037 @@
+[MASTER] 01:29:50.054 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.LinkedList<E> : Type points to itself
+[MASTER] 01:29:50.308 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ArrayDeque<E> : Type points to itself
+[MASTER] 01:29:50.309 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ArrayList<E> : Type points to itself
+[MASTER] 01:29:50.310 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.EnumSet<E> : Type points to itself
+[MASTER] 01:29:50.314 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.HashSet<E> : Type points to itself
+[MASTER] 01:29:50.324 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.LinkedHashSet<E> : Type points to itself
+[MASTER] 01:29:50.329 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.PriorityQueue<E> : Type points to itself
+[MASTER] 01:29:50.333 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ServiceLoader<S> : Type points to itself
+[MASTER] 01:29:50.352 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Stack<E> : Type points to itself
+[MASTER] 01:29:50.357 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.TreeSet<E> : Type points to itself
+[MASTER] 01:29:50.363 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Vector<E> : Type points to itself
+[MASTER] 01:29:50.369 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.AbstractMap<K, V>.SimpleEntry<K, V> : Type points to itself
+[MASTER] 01:29:50.374 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.AbstractMap<K, V>.SimpleImmutableEntry<K, V> : Type points to itself
+[MASTER] 01:30:10.089 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Comparator<T> : Type points to itself
+[MASTER] 01:31:37.952 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Enumeration<E> : Type points to itself
+[MASTER] 01:31:45.331 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.function.Function<T, R> : Type points to itself
+[MASTER] 01:32:05.031 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.function.BiFunction<T, U, R> : Type points to itself
+[MASTER] 01:37:07.817 [pool-2-thread-1] ERROR JUnitAnalyzer - Compilation failed on compilation units: [RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_79_1513330627354/com/github/kevinsawicki/http/HttpRequest_79_tmp__ESTest.java], RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_79_1513330627354/com/github/kevinsawicki/http/HttpRequest_79_tmp__ESTest_scaffolding.java]]
+[MASTER] 01:37:07.819 [pool-2-thread-1] ERROR JUnitAnalyzer - Classpath: /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/evosuite/master/target/evosuite-master-1.0.6-SNAPSHOT.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar
+[MASTER] 01:37:07.820 [pool-2-thread-1] ERROR JUnitAnalyzer - evosuiteCP: /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/evosuite/master/target/evosuite-master-1.0.6-SNAPSHOT.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar
+[MASTER] 01:37:07.923 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: incompatible types: java.util.Comparator<java.util.Map.Entry<java.lang.Object,javafx.print.Printer.MarginType>> cannot be converted to java.util.Comparator<java.util.Map.Entry<javafx.scene.DepthTest,javafx.print.Printer.MarginType>>: 265
+[MASTER] 01:37:07.923 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: /var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_79_1513330627354/com/github/kevinsawicki/http/HttpRequest_79_tmp__ESTest.java uses unchecked or unsafe operations.: -1
+[MASTER] 01:37:07.923 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: Recompile with -Xlint:unchecked for details.: -1
+[MASTER] 01:37:07.926 [pool-2-thread-1] ERROR JUnitAnalyzer - RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_79_1513330627354/com/github/kevinsawicki/http/HttpRequest_79_tmp__ESTest.java]
+1: /*
+2:  * This file was automatically generated by EvoSuite
+3:  * Fri Dec 15 09:37:07 GMT 2017
+4:  */
+5: 
+6: package com.github.kevinsawicki.http;
+7: 
+8: import org.junit.Test;
+9: import static org.junit.Assert.*;
+10: import static org.evosuite.shaded.org.mockito.Mockito.*;
+11: import static org.evosuite.runtime.MockitoExtension.*;
+12: import com.github.kevinsawicki.http.HttpRequest;
+13: import java.awt.Window;
+14: import java.net.URL;
+15: import java.util.AbstractMap;
+16: import java.util.Comparator;
+17: import java.util.HashMap;
+18: import java.util.Map;
+19: import javafx.print.PageOrientation;
+20: import javafx.print.Printer;
+21: import javafx.scene.DepthTest;
+22: import javafx.stage.PopupWindow;
+23: import org.evosuite.runtime.EvoRunner;
+24: import org.evosuite.runtime.EvoRunnerParameters;
+25: import org.evosuite.runtime.ViolatedAssumptionAnswer;
+26: import org.evosuite.runtime.mock.java.net.MockURL;
+27: import org.junit.runner.RunWith;
+28: 
+29: @RunWith(EvoRunner.class) @EvoRunnerParameters(mockJVMNonDeterminism = true, useVFS = true, useVNET = true, resetStaticState = true, useJEE = true) 
+30: public class HttpRequest_79_tmp__ESTest extends HttpRequest_79_tmp__ESTest_scaffolding {
+31: 
+32:   @Test(timeout = 4000)
+33:   public void test0()  throws Throwable  {
+34:       byte[] byteArray0 = new byte[9];
+35:       byteArray0[1] = (byte)0;
+36:       byteArray0[3] = (byte)0;
+37:       byteArray0[5] = (byte)0;
+38:       byteArray0[6] = (byte) (-17);
+39:       byteArray0[7] = (byte)0;
+40:       byteArray0[8] = (byte)3;
+41:       String string0 = HttpRequest.Base64.encodeBytes(byteArray0);
+42:       assertNotNull(string0);
+43:       assertArrayEquals(new byte[] {(byte)0, (byte)0, (byte)0, (byte)0, (byte)0, (byte)0, (byte) (-17), (byte)0, (byte)3}, byteArray0);
+44:       assertEquals("AAAAAAAA7wAD", string0);
+45:       
+46:       HashMap<Window.Type, PageOrientation> hashMap0 = new HashMap<Window.Type, PageOrientation>();
+47:       assertTrue(hashMap0.isEmpty());
+48:       assertEquals(0, hashMap0.size());
+49:       assertNotNull(hashMap0);
+50:       
+51:       String string1 = HttpRequest.append((CharSequence) "AAAAAAAA7wAD", (Map<?, ?>) hashMap0);
+52:       assertTrue(hashMap0.isEmpty());
+53:       assertEquals(0, hashMap0.size());
+54:       assertTrue(string1.equals((Object)string0));
+55:       assertNotNull(string1);
+56:       assertEquals("AAAAAAAA7wAD", string1);
+57:       
+58:       HashMap<Window.Type, PopupWindow.AnchorLocation> hashMap1 = new HashMap<Window.Type, PopupWindow.AnchorLocation>();
+59:       assertTrue(hashMap1.isEmpty());
+60:       assertEquals(0, hashMap1.size());
+61:       assertNotNull(hashMap1);
+62:       
+63:       String string2 = HttpRequest.append((CharSequence) "AAAAAAAA7wAD", (Map<?, ?>) hashMap1);
+64:       assertTrue(hashMap1.isEmpty());
+65:       assertEquals(0, hashMap1.size());
+66:       assertTrue(string2.equals((Object)string1));
+67:       assertTrue(string2.equals((Object)string0));
+68:       assertNotNull(string2);
+69:       assertEquals("AAAAAAAA7wAD", string2);
+70:       
+71:       URL uRL0 = MockURL.getHttpExample();
+72:       assertNull(uRL0.getQuery());
+73:       assertNull(uRL0.getUserInfo());
+74:       assertEquals((-1), uRL0.getPort());
+75:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+76:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+77:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+78:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+79:       assertEquals((-1), uRL0.getDefaultPort());
+80:       assertEquals("http", uRL0.getProtocol());
+81:       assertNull(uRL0.getRef());
+82:       assertNotNull(uRL0);
+83:       
+84:       URL uRL1 = MockURL.URL(uRL0, "AAAAAAAA7wAD");
+85:       assertNull(uRL0.getQuery());
+86:       assertNull(uRL0.getUserInfo());
+87:       assertEquals((-1), uRL0.getPort());
+88:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+89:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+90:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+91:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+92:       assertEquals((-1), uRL0.getDefaultPort());
+93:       assertEquals("http", uRL0.getProtocol());
+94:       assertNull(uRL0.getRef());
+95:       assertEquals((-1), uRL1.getPort());
+96:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+97:       assertNull(uRL1.getUserInfo());
+98:       assertEquals("http", uRL1.getProtocol());
+99:       assertNull(uRL1.getRef());
+100:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+101:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+102:       assertNull(uRL1.getQuery());
+103:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+104:       assertEquals((-1), uRL1.getDefaultPort());
+105:       assertFalse(uRL1.equals((Object)uRL0));
+106:       assertNotNull(uRL1);
+107:       assertNotSame(uRL0, uRL1);
+108:       assertNotSame(uRL1, uRL0);
+109:       
+110:       HttpRequest httpRequest0 = HttpRequest.post(uRL1);
+111:       assertNull(uRL0.getQuery());
+112:       assertNull(uRL0.getUserInfo());
+113:       assertEquals((-1), uRL0.getPort());
+114:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+115:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+116:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+117:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+118:       assertEquals((-1), uRL0.getDefaultPort());
+119:       assertEquals("http", uRL0.getProtocol());
+120:       assertNull(uRL0.getRef());
+121:       assertEquals((-1), uRL1.getPort());
+122:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+123:       assertNull(uRL1.getUserInfo());
+124:       assertEquals("http", uRL1.getProtocol());
+125:       assertNull(uRL1.getRef());
+126:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+127:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+128:       assertNull(uRL1.getQuery());
+129:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+130:       assertEquals((-1), uRL1.getDefaultPort());
+131:       assertEquals(8192, httpRequest0.bufferSize());
+132:       assertTrue(httpRequest0.ignoreCloseExceptions());
+133:       assertFalse(uRL0.equals((Object)uRL1));
+134:       assertFalse(uRL1.equals((Object)uRL0));
+135:       assertNotNull(httpRequest0);
+136:       assertNotSame(uRL0, uRL1);
+137:       assertNotSame(uRL1, uRL0);
+138:       
+139:       HttpRequest httpRequest1 = httpRequest0.followRedirects(false);
+140:       assertNull(uRL0.getQuery());
+141:       assertNull(uRL0.getUserInfo());
+142:       assertEquals((-1), uRL0.getPort());
+143:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+144:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+145:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+146:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+147:       assertEquals((-1), uRL0.getDefaultPort());
+148:       assertEquals("http", uRL0.getProtocol());
+149:       assertNull(uRL0.getRef());
+150:       assertEquals((-1), uRL1.getPort());
+151:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+152:       assertNull(uRL1.getUserInfo());
+153:       assertEquals("http", uRL1.getProtocol());
+154:       assertNull(uRL1.getRef());
+155:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+156:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+157:       assertNull(uRL1.getQuery());
+158:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+159:       assertEquals((-1), uRL1.getDefaultPort());
+160:       assertEquals(8192, httpRequest0.bufferSize());
+161:       assertTrue(httpRequest0.ignoreCloseExceptions());
+162:       assertTrue(httpRequest1.ignoreCloseExceptions());
+163:       assertEquals(8192, httpRequest1.bufferSize());
+164:       assertFalse(uRL0.equals((Object)uRL1));
+165:       assertFalse(uRL1.equals((Object)uRL0));
+166:       assertNotNull(httpRequest1);
+167:       assertNotSame(uRL0, uRL1);
+168:       assertNotSame(uRL1, uRL0);
+169:       assertSame(httpRequest0, httpRequest1);
+170:       assertSame(httpRequest1, httpRequest0);
+171:       
+172:       AbstractMap.SimpleEntry<String, String> abstractMap_SimpleEntry0 = new AbstractMap.SimpleEntry<String, String>("GET", "AAAAAAAA7wAD");
+173:       assertNotNull(abstractMap_SimpleEntry0);
+174:       
+175:       AbstractMap.SimpleImmutableEntry<String, String> abstractMap_SimpleImmutableEntry0 = new AbstractMap.SimpleImmutableEntry<String, String>(abstractMap_SimpleEntry0);
+176:       assertNotNull(abstractMap_SimpleImmutableEntry0);
+177:       
+178:       HttpRequest httpRequest2 = httpRequest1.header((Map.Entry<String, String>) abstractMap_SimpleImmutableEntry0);
+179:       assertEquals(8192, httpRequest2.bufferSize());
+180:       assertTrue(httpRequest2.ignoreCloseExceptions());
+181:       assertNull(uRL0.getQuery());
+182:       assertNull(uRL0.getUserInfo());
+183:       assertEquals((-1), uRL0.getPort());
+184:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+185:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+186:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+187:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+188:       assertEquals((-1), uRL0.getDefaultPort());
+189:       assertEquals("http", uRL0.getProtocol());
+190:       assertNull(uRL0.getRef());
+191:       assertEquals((-1), uRL1.getPort());
+192:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+193:       assertNull(uRL1.getUserInfo());
+194:       assertEquals("http", uRL1.getProtocol());
+195:       assertNull(uRL1.getRef());
+196:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+197:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+198:       assertNull(uRL1.getQuery());
+199:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+200:       assertEquals((-1), uRL1.getDefaultPort());
+201:       assertEquals(8192, httpRequest0.bufferSize());
+202:       assertTrue(httpRequest0.ignoreCloseExceptions());
+203:       assertTrue(httpRequest1.ignoreCloseExceptions());
+204:       assertEquals(8192, httpRequest1.bufferSize());
+205:       assertFalse(uRL0.equals((Object)uRL1));
+206:       assertFalse(uRL1.equals((Object)uRL0));
+207:       assertNotNull(httpRequest2);
+208:       assertSame(httpRequest2, httpRequest1);
+209:       assertSame(httpRequest2, httpRequest0);
+210:       assertNotSame(uRL0, uRL1);
+211:       assertNotSame(uRL1, uRL0);
+212:       assertSame(httpRequest0, httpRequest1);
+213:       assertSame(httpRequest0, httpRequest2);
+214:       assertSame(httpRequest1, httpRequest2);
+215:       assertSame(httpRequest1, httpRequest0);
+216:       
+217:       HttpRequest httpRequest3 = httpRequest2.authorization("");
+218:       assertEquals(8192, httpRequest2.bufferSize());
+219:       assertTrue(httpRequest2.ignoreCloseExceptions());
+220:       assertTrue(httpRequest3.ignoreCloseExceptions());
+221:       assertEquals(8192, httpRequest3.bufferSize());
+222:       assertNull(uRL0.getQuery());
+223:       assertNull(uRL0.getUserInfo());
+224:       assertEquals((-1), uRL0.getPort());
+225:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+226:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+227:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+228:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+229:       assertEquals((-1), uRL0.getDefaultPort());
+230:       assertEquals("http", uRL0.getProtocol());
+231:       assertNull(uRL0.getRef());
+232:       assertEquals((-1), uRL1.getPort());
+233:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+234:       assertNull(uRL1.getUserInfo());
+235:       assertEquals("http", uRL1.getProtocol());
+236:       assertNull(uRL1.getRef());
+237:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+238:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+239:       assertNull(uRL1.getQuery());
+240:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+241:       assertEquals((-1), uRL1.getDefaultPort());
+242:       assertEquals(8192, httpRequest0.bufferSize());
+243:       assertTrue(httpRequest0.ignoreCloseExceptions());
+244:       assertTrue(httpRequest1.ignoreCloseExceptions());
+245:       assertEquals(8192, httpRequest1.bufferSize());
+246:       assertFalse(uRL0.equals((Object)uRL1));
+247:       assertFalse(uRL1.equals((Object)uRL0));
+248:       assertNotNull(httpRequest3);
+249:       assertSame(httpRequest2, httpRequest1);
+250:       assertSame(httpRequest2, httpRequest0);
+251:       assertSame(httpRequest2, httpRequest3);
+252:       assertSame(httpRequest3, httpRequest2);
+253:       assertSame(httpRequest3, httpRequest1);
+254:       assertSame(httpRequest3, httpRequest0);
+255:       assertNotSame(uRL0, uRL1);
+256:       assertNotSame(uRL1, uRL0);
+257:       assertSame(httpRequest0, httpRequest1);
+258:       assertSame(httpRequest0, httpRequest2);
+259:       assertSame(httpRequest0, httpRequest3);
+260:       assertSame(httpRequest1, httpRequest2);
+261:       assertSame(httpRequest1, httpRequest3);
+262:       assertSame(httpRequest1, httpRequest0);
+263:       
+264:       Comparator<Object> comparator0 = (Comparator<Object>) mock(Comparator.class, new ViolatedAssumptionAnswer());
+265:       Comparator<Map.Entry<DepthTest, Printer.MarginType>> comparator1 = (Comparator<Map.Entry<DepthTest, Printer.MarginType>>)Map.Entry.comparingByValue((Comparator<? super Printer.MarginType>) comparator0);
+266:       assertNotNull(comparator1);
+267:       
+268:       Map<String, String> map0 = httpRequest1.getParams("AAAAAAAA7wAD");
+269:       assertEquals(0, map0.size());
+270:       assertTrue(map0.isEmpty());
+271:       assertNull(uRL0.getQuery());
+272:       assertNull(uRL0.getUserInfo());
+273:       assertEquals((-1), uRL0.getPort());
+274:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+275:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+276:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+277:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+278:       assertEquals((-1), uRL0.getDefaultPort());
+279:       assertEquals("http", uRL0.getProtocol());
+280:       assertNull(uRL0.getRef());
+281:       assertEquals((-1), uRL1.getPort());
+282:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+283:       assertNull(uRL1.getUserInfo());
+284:       assertEquals("http", uRL1.getProtocol());
+285:       assertNull(uRL1.getRef());
+286:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+287:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+288:       assertNull(uRL1.getQuery());
+289:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+290:       assertEquals((-1), uRL1.getDefaultPort());
+291:       assertEquals(8192, httpRequest0.bufferSize());
+292:       assertTrue(httpRequest0.ignoreCloseExceptions());
+293:       assertTrue(httpRequest1.ignoreCloseExceptions());
+294:       assertEquals(8192, httpRequest1.bufferSize());
+295:       assertFalse(uRL0.equals((Object)uRL1));
+296:       assertFalse(uRL1.equals((Object)uRL0));
+297:       assertNotNull(map0);
+298:       assertNotSame(uRL0, uRL1);
+299:       assertNotSame(uRL1, uRL0);
+300:       assertSame(httpRequest0, httpRequest1);
+301:       assertSame(httpRequest0, httpRequest2);
+302:       assertSame(httpRequest0, httpRequest3);
+303:       assertSame(httpRequest1, httpRequest2);
+304:       assertSame(httpRequest1, httpRequest3);
+305:       assertSame(httpRequest1, httpRequest0);
+306:       
+307:       HttpRequest httpRequest4 = httpRequest2.closeOutputQuietly();
+308:       assertEquals(8192, httpRequest2.bufferSize());
+309:       assertTrue(httpRequest2.ignoreCloseExceptions());
+310:       assertEquals(8192, httpRequest4.bufferSize());
+311:       assertTrue(httpRequest4.ignoreCloseExceptions());
+312:       assertNull(uRL0.getQuery());
+313:       assertNull(uRL0.getUserInfo());
+314:       assertEquals((-1), uRL0.getPort());
+315:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+316:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+317:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+318:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+319:       assertEquals((-1), uRL0.getDefaultPort());
+320:       assertEquals("http", uRL0.getProtocol());
+321:       assertNull(uRL0.getRef());
+322:       assertEquals((-1), uRL1.getPort());
+323:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+324:       assertNull(uRL1.getUserInfo());
+325:       assertEquals("http", uRL1.getProtocol());
+326:       assertNull(uRL1.getRef());
+327:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+328:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+329:       assertNull(uRL1.getQuery());
+330:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+331:       assertEquals((-1), uRL1.getDefaultPort());
+332:       assertEquals(8192, httpRequest0.bufferSize());
+333:       assertTrue(httpRequest0.ignoreCloseExceptions());
+334:       assertTrue(httpRequest1.ignoreCloseExceptions());
+335:       assertEquals(8192, httpRequest1.bufferSize());
+336:       assertFalse(uRL0.equals((Object)uRL1));
+337:       assertFalse(uRL1.equals((Object)uRL0));
+338:       assertNotNull(httpRequest4);
+339:       assertSame(httpRequest2, httpRequest4);
+340:       assertSame(httpRequest2, httpRequest1);
+341:       assertSame(httpRequest2, httpRequest0);
+342:       assertSame(httpRequest2, httpRequest3);
+343:       assertSame(httpRequest4, httpRequest3);
+344:       assertSame(httpRequest4, httpRequest1);
+345:       assertSame(httpRequest4, httpRequest2);
+346:       assertSame(httpRequest4, httpRequest0);
+347:       assertNotSame(uRL0, uRL1);
+348:       assertNotSame(uRL1, uRL0);
+349:       assertSame(httpRequest0, httpRequest1);
+350:       assertSame(httpRequest0, httpRequest2);
+351:       assertSame(httpRequest0, httpRequest4);
+352:       assertSame(httpRequest0, httpRequest3);
+353:       assertSame(httpRequest1, httpRequest2);
+354:       assertSame(httpRequest1, httpRequest4);
+355:       assertSame(httpRequest1, httpRequest3);
+356:       assertSame(httpRequest1, httpRequest0);
+357:       
+358:       int int0 = httpRequest4.contentLength();
+359:       assertEquals(8192, httpRequest2.bufferSize());
+360:       assertTrue(httpRequest2.ignoreCloseExceptions());
+361:       assertEquals(8192, httpRequest4.bufferSize());
+362:       assertTrue(httpRequest4.ignoreCloseExceptions());
+363:       assertNull(uRL0.getQuery());
+364:       assertNull(uRL0.getUserInfo());
+365:       assertEquals((-1), uRL0.getPort());
+366:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+367:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+368:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+369:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+370:       assertEquals((-1), uRL0.getDefaultPort());
+371:       assertEquals("http", uRL0.getProtocol());
+372:       assertNull(uRL0.getRef());
+373:       assertEquals((-1), uRL1.getPort());
+374:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+375:       assertNull(uRL1.getUserInfo());
+376:       assertEquals("http", uRL1.getProtocol());
+377:       assertNull(uRL1.getRef());
+378:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+379:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+380:       assertNull(uRL1.getQuery());
+381:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+382:       assertEquals((-1), uRL1.getDefaultPort());
+383:       assertEquals(8192, httpRequest0.bufferSize());
+384:       assertTrue(httpRequest0.ignoreCloseExceptions());
+385:       assertTrue(httpRequest1.ignoreCloseExceptions());
+386:       assertEquals(8192, httpRequest1.bufferSize());
+387:       assertFalse(uRL0.equals((Object)uRL1));
+388:       assertFalse(uRL1.equals((Object)uRL0));
+389:       assertSame(httpRequest2, httpRequest4);
+390:       assertSame(httpRequest2, httpRequest1);
+391:       assertSame(httpRequest2, httpRequest0);
+392:       assertSame(httpRequest2, httpRequest3);
+393:       assertSame(httpRequest4, httpRequest3);
+394:       assertSame(httpRequest4, httpRequest1);
+395:       assertSame(httpRequest4, httpRequest2);
+396:       assertSame(httpRequest4, httpRequest0);
+397:       assertNotSame(uRL0, uRL1);
+398:       assertNotSame(uRL1, uRL0);
+399:       assertSame(httpRequest0, httpRequest1);
+400:       assertSame(httpRequest0, httpRequest2);
+401:       assertSame(httpRequest0, httpRequest4);
+402:       assertSame(httpRequest0, httpRequest3);
+403:       assertSame(httpRequest1, httpRequest2);
+404:       assertSame(httpRequest1, httpRequest4);
+405:       assertSame(httpRequest1, httpRequest3);
+406:       assertSame(httpRequest1, httpRequest0);
+407:       assertEquals((-1), int0);
+408:       
+409:       Object object0 = new Object();
+410:       assertNotNull(object0);
+411:       
+412:       boolean boolean0 = httpRequest3.ignoreCloseExceptions();
+413:       assertEquals(8192, httpRequest2.bufferSize());
+414:       assertTrue(httpRequest2.ignoreCloseExceptions());
+415:       assertTrue(httpRequest3.ignoreCloseExceptions());
+416:       assertEquals(8192, httpRequest3.bufferSize());
+417:       assertNull(uRL0.getQuery());
+418:       assertNull(uRL0.getUserInfo());
+419:       assertEquals((-1), uRL0.getPort());
+420:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+421:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+422:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+423:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+424:       assertEquals((-1), uRL0.getDefaultPort());
+425:       assertEquals("http", uRL0.getProtocol());
+426:       assertNull(uRL0.getRef());
+427:       assertEquals((-1), uRL1.getPort());
+428:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+429:       assertNull(uRL1.getUserInfo());
+430:       assertEquals("http", uRL1.getProtocol());
+431:       assertNull(uRL1.getRef());
+432:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+433:       assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+434:       assertNull(uRL1.getQuery());
+435:       assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+436:       assertEquals((-1), uRL1.getDefaultPort());
+437:       assertEquals(8192, httpRequest0.bufferSize());
+438:       assertTrue(httpRequest0.ignoreCloseExceptions());
+439:       assertTrue(httpRequest1.ignoreCloseExceptions());
+440:       assertEquals(8192, httpRequest1.bufferSize());
+441:       assertFalse(uRL0.equals((Object)uRL1));
+442:       assertFalse(uRL1.equals((Object)uRL0));
+443:       assertSame(httpRequest2, httpRequest4);
+444:       assertSame(httpRequest2, httpRequest1);
+445:       assertSame(httpRequest2, httpRequest0);
+446:       assertSame(httpRequest2, httpRequest3);
+447:       assertSame(httpRequest3, httpRequest2);
+448:       assertSame(httpRequest3, httpRequest1);
+449:       assertSame(httpRequest3, httpRequest4);
+450:       assertSame(httpRequest3, httpRequest0);
+451:       assertNotSame(uRL0, uRL1);
+452:       assertNotSame(uRL1, uRL0);
+453:       assertSame(httpRequest0, httpRequest1);
+454:       assertSame(httpRequest0, httpRequest2);
+455:       assertSame(httpRequest0, httpRequest4);
+456:       assertSame(httpRequest0, httpRequest3);
+457:       assertSame(httpRequest1, httpRequest2);
+458:       assertSame(httpRequest1, httpRequest4);
+459:       assertSame(httpRequest1, httpRequest3);
+460:       assertSame(httpRequest1, httpRequest0);
+461:       assertTrue(boolean0);
+462:   }
+463: }
+RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_79_1513330627354/com/github/kevinsawicki/http/HttpRequest_79_tmp__ESTest.java]
+1: /**
+2:  * Scaffolding file used to store all the setups needed to run 
+3:  * tests automatically generated by EvoSuite
+4:  * Fri Dec 15 09:37:07 GMT 2017
+5:  */
+6: 
+7: package com.github.kevinsawicki.http;
+8: 
+9: import org.evosuite.runtime.annotation.EvoSuiteClassExclude;
+10: import org.junit.BeforeClass;
+11: import org.junit.Before;
+12: import org.junit.After;
+13: import org.junit.AfterClass;
+14: import org.evosuite.runtime.sandbox.Sandbox;
+15: import org.evosuite.runtime.sandbox.Sandbox.SandboxMode;
+16: 
+17: import static org.evosuite.shaded.org.mockito.Mockito.*;
+18: @EvoSuiteClassExclude
+19: public class HttpRequest_79_tmp__ESTest_scaffolding {
+20: 
+21:   @org.junit.Rule 
+22:   public org.evosuite.runtime.vnet.NonFunctionalRequirementRule nfr = new org.evosuite.runtime.vnet.NonFunctionalRequirementRule();
+23: 
+24:   private static final java.util.Properties defaultProperties = (java.util.Properties) java.lang.System.getProperties().clone(); 
+25: 
+26:   private org.evosuite.runtime.thread.ThreadStopper threadStopper =  new org.evosuite.runtime.thread.ThreadStopper (org.evosuite.runtime.thread.KillSwitchHandler.getInstance(), 3000);
+27: 
+28: 
+29:   @BeforeClass 
+30:   public static void initEvoSuiteFramework() { 
+31:     org.evosuite.runtime.RuntimeSettings.className = "com.github.kevinsawicki.http.HttpRequest"; 
+32:     org.evosuite.runtime.GuiSupport.initialize(); 
+33:     org.evosuite.runtime.RuntimeSettings.maxNumberOfThreads = 100; 
+34:     org.evosuite.runtime.RuntimeSettings.maxNumberOfIterationsPerLoop = 10000; 
+35:     org.evosuite.runtime.RuntimeSettings.mockSystemIn = true; 
+36:     org.evosuite.runtime.RuntimeSettings.sandboxMode = org.evosuite.runtime.sandbox.Sandbox.SandboxMode.RECOMMENDED; 
+37:     org.evosuite.runtime.sandbox.Sandbox.initializeSecurityManagerForSUT(); 
+38:     org.evosuite.runtime.classhandling.JDKClassResetter.init();
+39:     setSystemProperties();
+40:     initializeClasses();
+41:     org.evosuite.runtime.Runtime.getInstance().resetRuntime(); 
+42:     try { initMocksToAvoidTimeoutsInTheTests(); } catch(ClassNotFoundException e) {} 
+43:   } 
+44: 
+45:   @AfterClass 
+46:   public static void clearEvoSuiteFramework(){ 
+47:     Sandbox.resetDefaultSecurityManager(); 
+48:     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
+49:   } 
+50: 
+51:   @Before 
+52:   public void initTestCase(){ 
+53:     threadStopper.storeCurrentThreads();
+54:     threadStopper.startRecordingTime();
+55:     org.evosuite.runtime.jvm.ShutdownHookHandler.getInstance().initHandler(); 
+56:     org.evosuite.runtime.sandbox.Sandbox.goingToExecuteSUTCode(); 
+57:     setSystemProperties(); 
+58:     org.evosuite.runtime.GuiSupport.setHeadless(); 
+59:     org.evosuite.runtime.Runtime.getInstance().resetRuntime(); 
+60:     org.evosuite.runtime.agent.InstrumentingAgent.activate(); 
+61:   } 
+62: 
+63:   @After 
+64:   public void doneWithTestCase(){ 
+65:     threadStopper.killAndJoinClientThreads();
+66:     org.evosuite.runtime.jvm.ShutdownHookHandler.getInstance().safeExecuteAddedHooks(); 
+67:     org.evosuite.runtime.classhandling.JDKClassResetter.reset(); 
+68:     resetClasses(); 
+69:     org.evosuite.runtime.sandbox.Sandbox.doneWithExecutingSUTCode(); 
+70:     org.evosuite.runtime.agent.InstrumentingAgent.deactivate(); 
+71:     org.evosuite.runtime.GuiSupport.restoreHeadlessMode(); 
+72:   } 
+73: 
+74:   public static void setSystemProperties() {
+75:  
+76:     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
+77:     java.lang.System.setProperty("file.encoding", "UTF-8"); 
+78:     java.lang.System.setProperty("java.awt.headless", "true"); 
+79:     java.lang.System.setProperty("user.country", "US"); 
+80:     java.lang.System.setProperty("user.language", "en"); 
+81:     java.lang.System.setProperty("user.timezone", "America/Los_Angeles"); 
+82:     java.lang.System.setProperty("sun.jnu.encoding", "UTF-8"); 
+83:   }
+84: 
+85:   private static void initializeClasses() {
+86:     org.evosuite.runtime.classhandling.ClassStateSupport.initializeClasses(HttpRequest_79_tmp__ESTest_scaffolding.class.getClassLoader() ,
+87:       "com.github.kevinsawicki.http.HttpRequest$Base64",
+88:       "com.github.kevinsawicki.http.HttpRequest$RequestOutputStream",
+89:       "com.github.kevinsawicki.http.HttpRequest$CloseOperation",
+90:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory",
+91:       "com.github.kevinsawicki.http.HttpRequest",
+92:       "com.github.kevinsawicki.http.HttpRequest$FlushOperation",
+93:       "com.github.kevinsawicki.http.HttpRequest$HttpRequestException",
+94:       "com.github.kevinsawicki.http.HttpRequest$4",
+95:       "com.github.kevinsawicki.http.HttpRequest$3",
+96:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory$1",
+97:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress",
+98:       "com.github.kevinsawicki.http.HttpRequest$Operation",
+99:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress$1"
+100:     );
+101:   } 
+102:   private static void initMocksToAvoidTimeoutsInTheTests() throws ClassNotFoundException { 
+103:     mock(Class.forName("java.util.Comparator", false, HttpRequest_79_tmp__ESTest_scaffolding.class.getClassLoader()));
+104:   }
+105: 
+106:   private static void resetClasses() {
+107:     org.evosuite.runtime.classhandling.ClassResetter.getInstance().setClassLoader(HttpRequest_79_tmp__ESTest_scaffolding.class.getClassLoader()); 
+108: 
+109:     org.evosuite.runtime.classhandling.ClassStateSupport.resetClasses(
+110:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory",
+111:       "com.github.kevinsawicki.http.HttpRequest",
+112:       "com.github.kevinsawicki.http.HttpRequest$HttpRequestException",
+113:       "com.github.kevinsawicki.http.HttpRequest$Base64",
+114:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress"
+115:     );
+116:   }
+117: }
+
+[MASTER] 01:37:08.199 [pool-2-thread-1] ERROR JUnitAnalyzer - Failed to compile test case:
+byte[] byteArray0 = new byte[9];
+byteArray0[1] = (byte)0;
+byteArray0[3] = (byte)0;
+byteArray0[5] = (byte)0;
+byteArray0[6] = (byte) (-17);
+byteArray0[7] = (byte)0;
+byteArray0[8] = (byte)3;
+String string0 = HttpRequest.Base64.encodeBytes(byteArray0);
+assertNotNull(string0);
+assertArrayEquals(new byte[] {(byte)0, (byte)0, (byte)0, (byte)0, (byte)0, (byte)0, (byte) (-17), (byte)0, (byte)3}, byteArray0);
+assertEquals("AAAAAAAA7wAD", string0);
+
+HashMap<Window.Type, PageOrientation> hashMap0 = new HashMap<Window.Type, PageOrientation>();
+assertTrue(hashMap0.isEmpty());
+assertEquals(0, hashMap0.size());
+assertNotNull(hashMap0);
+
+String string1 = HttpRequest.append((CharSequence) "AAAAAAAA7wAD", (Map<?, ?>) hashMap0);
+assertTrue(hashMap0.isEmpty());
+assertEquals(0, hashMap0.size());
+assertTrue(string1.equals((Object)string0));
+assertNotNull(string1);
+assertEquals("AAAAAAAA7wAD", string1);
+
+HashMap<Window.Type, PopupWindow.AnchorLocation> hashMap1 = new HashMap<Window.Type, PopupWindow.AnchorLocation>();
+assertTrue(hashMap1.isEmpty());
+assertEquals(0, hashMap1.size());
+assertNotNull(hashMap1);
+
+String string2 = HttpRequest.append((CharSequence) "AAAAAAAA7wAD", (Map<?, ?>) hashMap1);
+assertTrue(hashMap1.isEmpty());
+assertEquals(0, hashMap1.size());
+assertTrue(string2.equals((Object)string1));
+assertTrue(string2.equals((Object)string0));
+assertNotNull(string2);
+assertEquals("AAAAAAAA7wAD", string2);
+
+URL uRL0 = MockURL.getHttpExample();
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertNotNull(uRL0);
+
+URL uRL1 = MockURL.URL(uRL0, "AAAAAAAA7wAD");
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertFalse(uRL1.equals((Object)uRL0));
+assertNotNull(uRL1);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+
+HttpRequest httpRequest0 = HttpRequest.post(uRL1);
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertFalse(uRL0.equals((Object)uRL1));
+assertFalse(uRL1.equals((Object)uRL0));
+assertNotNull(httpRequest0);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+
+HttpRequest httpRequest1 = httpRequest0.followRedirects(false);
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertFalse(uRL0.equals((Object)uRL1));
+assertFalse(uRL1.equals((Object)uRL0));
+assertNotNull(httpRequest1);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest0);
+
+AbstractMap.SimpleEntry<String, String> abstractMap_SimpleEntry0 = new AbstractMap.SimpleEntry<String, String>("GET", "AAAAAAAA7wAD");
+assertNotNull(abstractMap_SimpleEntry0);
+
+AbstractMap.SimpleImmutableEntry<String, String> abstractMap_SimpleImmutableEntry0 = new AbstractMap.SimpleImmutableEntry<String, String>(abstractMap_SimpleEntry0);
+assertNotNull(abstractMap_SimpleImmutableEntry0);
+
+HttpRequest httpRequest2 = httpRequest1.header((Map.Entry<String, String>) abstractMap_SimpleImmutableEntry0);
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertFalse(uRL0.equals((Object)uRL1));
+assertFalse(uRL1.equals((Object)uRL0));
+assertNotNull(httpRequest2);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest0);
+
+HttpRequest httpRequest3 = httpRequest2.authorization("");
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertTrue(httpRequest3.ignoreCloseExceptions());
+assertEquals(8192, httpRequest3.bufferSize());
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertFalse(uRL0.equals((Object)uRL1));
+assertFalse(uRL1.equals((Object)uRL0));
+assertNotNull(httpRequest3);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest3);
+assertSame(httpRequest3, httpRequest2);
+assertSame(httpRequest3, httpRequest1);
+assertSame(httpRequest3, httpRequest0);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest0);
+
+Comparator<Object> comparator0 = (Comparator<Object>) mock(Comparator.class, new ViolatedAssumptionAnswer());
+Comparator<Map.Entry<DepthTest, Printer.MarginType>> comparator1 = (Comparator<Map.Entry<DepthTest, Printer.MarginType>>)Map.Entry.comparingByValue((Comparator<? super Printer.MarginType>) comparator0);
+assertNotNull(comparator1);
+
+Map<String, String> map0 = httpRequest1.getParams("AAAAAAAA7wAD");
+assertEquals(0, map0.size());
+assertTrue(map0.isEmpty());
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertFalse(uRL0.equals((Object)uRL1));
+assertFalse(uRL1.equals((Object)uRL0));
+assertNotNull(map0);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest0);
+
+HttpRequest httpRequest4 = httpRequest2.closeOutputQuietly();
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertEquals(8192, httpRequest4.bufferSize());
+assertTrue(httpRequest4.ignoreCloseExceptions());
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertFalse(uRL0.equals((Object)uRL1));
+assertFalse(uRL1.equals((Object)uRL0));
+assertNotNull(httpRequest4);
+assertSame(httpRequest2, httpRequest4);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest3);
+assertSame(httpRequest4, httpRequest3);
+assertSame(httpRequest4, httpRequest1);
+assertSame(httpRequest4, httpRequest2);
+assertSame(httpRequest4, httpRequest0);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest4);
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest4);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest0);
+
+int int0 = httpRequest4.contentLength();
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertEquals(8192, httpRequest4.bufferSize());
+assertTrue(httpRequest4.ignoreCloseExceptions());
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertFalse(uRL0.equals((Object)uRL1));
+assertFalse(uRL1.equals((Object)uRL0));
+assertSame(httpRequest2, httpRequest4);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest3);
+assertSame(httpRequest4, httpRequest3);
+assertSame(httpRequest4, httpRequest1);
+assertSame(httpRequest4, httpRequest2);
+assertSame(httpRequest4, httpRequest0);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest4);
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest4);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest0);
+assertEquals((-1), int0);
+
+Object object0 = new Object();
+assertNotNull(object0);
+
+boolean boolean0 = httpRequest3.ignoreCloseExceptions();
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertTrue(httpRequest3.ignoreCloseExceptions());
+assertEquals(8192, httpRequest3.bufferSize());
+assertNull(uRL0.getQuery());
+assertNull(uRL0.getUserInfo());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getRef());
+assertEquals((-1), uRL1.getPort());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http", uRL1.getProtocol());
+assertNull(uRL1.getRef());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertNull(uRL1.getQuery());
+assertEquals("http://www.someFakeButWellFormedURL.org/AAAAAAAA7wAD", uRL1.toString());
+assertEquals((-1), uRL1.getDefaultPort());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertFalse(uRL0.equals((Object)uRL1));
+assertFalse(uRL1.equals((Object)uRL0));
+assertSame(httpRequest2, httpRequest4);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest3);
+assertSame(httpRequest3, httpRequest2);
+assertSame(httpRequest3, httpRequest1);
+assertSame(httpRequest3, httpRequest4);
+assertSame(httpRequest3, httpRequest0);
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest4);
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest4);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest0);
+assertTrue(boolean0);
+
+

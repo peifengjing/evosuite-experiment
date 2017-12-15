@@ -1,0 +1,17 @@
+[MASTER] 00:16:21.713 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.LinkedList<E> : Type points to itself
+[MASTER] 00:16:21.868 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ArrayDeque<E> : Type points to itself
+[MASTER] 00:16:21.869 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ArrayList<E> : Type points to itself
+[MASTER] 00:16:21.870 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.EnumSet<E> : Type points to itself
+[MASTER] 00:16:21.876 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.HashSet<E> : Type points to itself
+[MASTER] 00:16:21.884 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.LinkedHashSet<E> : Type points to itself
+[MASTER] 00:16:21.889 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.PriorityQueue<E> : Type points to itself
+[MASTER] 00:16:21.906 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ServiceLoader<S> : Type points to itself
+[MASTER] 00:16:21.918 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Stack<E> : Type points to itself
+[MASTER] 00:16:21.925 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.TreeSet<E> : Type points to itself
+[MASTER] 00:16:21.931 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Vector<E> : Type points to itself
+[MASTER] 00:16:21.945 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.AbstractMap<K, V>.SimpleEntry<K, V> : Type points to itself
+[MASTER] 00:16:21.951 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.AbstractMap<K, V>.SimpleImmutableEntry<K, V> : Type points to itself
+[MASTER] 00:17:00.982 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Enumeration<E> : Type points to itself
+[MASTER] 00:17:26.821 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.function.BiFunction<T, U, R> : Type points to itself
+[MASTER] 00:17:29.088 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Comparator<T> : Type points to itself
+[MASTER] 00:17:29.105 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.function.Function<T, R> : Type points to itself

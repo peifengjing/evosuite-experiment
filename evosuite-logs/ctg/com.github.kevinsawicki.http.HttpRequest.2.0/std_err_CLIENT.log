@@ -1,0 +1,1055 @@
+[MASTER] 01:17:32.077 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.LinkedList<E> : Type points to itself
+[MASTER] 01:17:32.194 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ArrayDeque<E> : Type points to itself
+[MASTER] 01:17:32.195 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ArrayList<E> : Type points to itself
+[MASTER] 01:17:32.197 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.EnumSet<E> : Type points to itself
+[MASTER] 01:17:32.201 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.HashSet<E> : Type points to itself
+[MASTER] 01:17:32.209 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.LinkedHashSet<E> : Type points to itself
+[MASTER] 01:17:32.214 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.PriorityQueue<E> : Type points to itself
+[MASTER] 01:17:32.223 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.ServiceLoader<S> : Type points to itself
+[MASTER] 01:17:32.234 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Stack<E> : Type points to itself
+[MASTER] 01:17:32.239 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.TreeSet<E> : Type points to itself
+[MASTER] 01:17:32.242 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Vector<E> : Type points to itself
+[MASTER] 01:17:32.247 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.AbstractMap<K, V>.SimpleEntry<K, V> : Type points to itself
+[MASTER] 01:17:32.252 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.AbstractMap<K, V>.SimpleImmutableEntry<K, V> : Type points to itself
+[MASTER] 01:17:55.777 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Comparator<T> : Type points to itself
+[MASTER] 01:17:56.901 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.Enumeration<E> : Type points to itself
+[MASTER] 01:19:59.102 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.function.BiFunction<T, U, R> : Type points to itself
+[MASTER] 01:24:21.983 [pool-2-thread-1] ERROR JUnitAnalyzer - Compilation failed on compilation units: [RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_20_1513329861410/com/github/kevinsawicki/http/HttpRequest_20_tmp__ESTest.java], RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_20_1513329861410/com/github/kevinsawicki/http/HttpRequest_20_tmp__ESTest_scaffolding.java]]
+[MASTER] 01:24:21.984 [pool-2-thread-1] ERROR JUnitAnalyzer - Classpath: /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/evosuite/master/target/evosuite-master-1.0.6-SNAPSHOT.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar
+[MASTER] 01:24:21.985 [pool-2-thread-1] ERROR JUnitAnalyzer - evosuiteCP: /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/evosuite/master/target/evosuite-master-1.0.6-SNAPSHOT.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar
+[MASTER] 01:24:22.000 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: incompatible types: java.util.Comparator<java.util.Map.Entry<java.lang.Object,java.sql.ClientInfoStatus>> cannot be converted to java.util.Comparator<java.util.Map.Entry<java.awt.MultipleGradientPaint.CycleMethod,java.sql.ClientInfoStatus>>: 102
+[MASTER] 01:24:22.001 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: /var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_20_1513329861410/com/github/kevinsawicki/http/HttpRequest_20_tmp__ESTest.java uses unchecked or unsafe operations.: -1
+[MASTER] 01:24:22.001 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: Recompile with -Xlint:unchecked for details.: -1
+[MASTER] 01:24:22.004 [pool-2-thread-1] ERROR JUnitAnalyzer - RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_20_1513329861410/com/github/kevinsawicki/http/HttpRequest_20_tmp__ESTest.java]
+1: /*
+2:  * This file was automatically generated by EvoSuite
+3:  * Fri Dec 15 09:24:21 GMT 2017
+4:  */
+5: 
+6: package com.github.kevinsawicki.http;
+7: 
+8: import org.junit.Test;
+9: import static org.junit.Assert.*;
+10: import static org.evosuite.shaded.org.mockito.Mockito.*;
+11: import static org.evosuite.runtime.MockitoExtension.*;
+12: import static org.evosuite.runtime.EvoAssertions.*;
+13: import com.github.kevinsawicki.http.HttpRequest;
+14: import java.awt.GraphicsDevice;
+15: import java.awt.MultipleGradientPaint;
+16: import java.net.URL;
+17: import java.sql.ClientInfoStatus;
+18: import java.util.AbstractMap;
+19: import java.util.Comparator;
+20: import java.util.HashMap;
+21: import java.util.Map;
+22: import java.util.concurrent.atomic.AtomicReference;
+23: import javafx.geometry.HPos;
+24: import org.evosuite.runtime.EvoRunner;
+25: import org.evosuite.runtime.EvoRunnerParameters;
+26: import org.evosuite.runtime.ViolatedAssumptionAnswer;
+27: import org.evosuite.runtime.mock.java.net.MockURL;
+28: import org.evosuite.runtime.testdata.EvoSuiteFile;
+29: import org.evosuite.runtime.testdata.EvoSuiteURL;
+30: import org.evosuite.runtime.testdata.FileSystemHandling;
+31: import org.evosuite.runtime.testdata.NetworkHandling;
+32: import org.junit.runner.RunWith;
+33: 
+34: @RunWith(EvoRunner.class) @EvoRunnerParameters(mockJVMNonDeterminism = true, useVFS = true, useVNET = true, resetStaticState = true, useJEE = true) 
+35: public class HttpRequest_20_tmp__ESTest extends HttpRequest_20_tmp__ESTest_scaffolding {
+36: 
+37:   @Test(timeout = 4000)
+38:   public void test0()  throws Throwable  {
+39:       URL uRL0 = MockURL.getHttpExample();
+40:       assertNotNull(uRL0);
+41:       assertNull(uRL0.getQuery());
+42:       assertEquals((-1), uRL0.getDefaultPort());
+43:       assertNull(uRL0.getRef());
+44:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+45:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+46:       assertEquals((-1), uRL0.getPort());
+47:       assertNull(uRL0.getUserInfo());
+48:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+49:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+50:       assertEquals("http", uRL0.getProtocol());
+51:       
+52:       HttpRequest httpRequest0 = HttpRequest.options(uRL0);
+53:       assertNotNull(httpRequest0);
+54:       assertNull(uRL0.getQuery());
+55:       assertEquals((-1), uRL0.getDefaultPort());
+56:       assertNull(uRL0.getRef());
+57:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+58:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+59:       assertEquals((-1), uRL0.getPort());
+60:       assertNull(uRL0.getUserInfo());
+61:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+62:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+63:       assertEquals("http", uRL0.getProtocol());
+64:       assertTrue(httpRequest0.ignoreCloseExceptions());
+65:       assertEquals(8192, httpRequest0.bufferSize());
+66:       
+67:       boolean boolean0 = FileSystemHandling.createFolder((EvoSuiteFile) null);
+68:       assertFalse(boolean0);
+69:       
+70:       boolean boolean1 = NetworkHandling.createRemoteTextFile((EvoSuiteURL) null, "Last-Modified");
+71:       assertFalse(boolean1);
+72:       assertTrue(boolean1 == boolean0);
+73:       
+74:       AbstractMap.SimpleImmutableEntry<String, String> abstractMap_SimpleImmutableEntry0 = new AbstractMap.SimpleImmutableEntry<String, String>("POST", "");
+75:       assertNotNull(abstractMap_SimpleImmutableEntry0);
+76:       
+77:       HttpRequest httpRequest1 = httpRequest0.header((Map.Entry<String, String>) abstractMap_SimpleImmutableEntry0);
+78:       assertSame(httpRequest0, httpRequest1);
+79:       assertSame(httpRequest1, httpRequest0);
+80:       assertNotNull(httpRequest1);
+81:       assertNull(uRL0.getQuery());
+82:       assertEquals((-1), uRL0.getDefaultPort());
+83:       assertNull(uRL0.getRef());
+84:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+85:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+86:       assertEquals((-1), uRL0.getPort());
+87:       assertNull(uRL0.getUserInfo());
+88:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+89:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+90:       assertEquals("http", uRL0.getProtocol());
+91:       assertTrue(httpRequest0.ignoreCloseExceptions());
+92:       assertEquals(8192, httpRequest0.bufferSize());
+93:       assertEquals(8192, httpRequest1.bufferSize());
+94:       assertTrue(httpRequest1.ignoreCloseExceptions());
+95:       
+96:       HashMap<HPos, GraphicsDevice.WindowTranslucency> hashMap0 = new HashMap<HPos, GraphicsDevice.WindowTranslucency>();
+97:       assertNotNull(hashMap0);
+98:       assertTrue(hashMap0.isEmpty());
+99:       assertEquals(0, hashMap0.size());
+100:       
+101:       Comparator<Object> comparator0 = (Comparator<Object>) mock(Comparator.class, new ViolatedAssumptionAnswer());
+102:       Comparator<Map.Entry<MultipleGradientPaint.CycleMethod, ClientInfoStatus>> comparator1 = (Comparator<Map.Entry<MultipleGradientPaint.CycleMethod, ClientInfoStatus>>)Map.Entry.comparingByValue((Comparator<? super ClientInfoStatus>) comparator0);
+103:       assertNotNull(comparator1);
+104:       
+105:       HttpRequest httpRequest2 = httpRequest1.form((Map<?, ?>) hashMap0);
+106:       assertSame(httpRequest0, httpRequest2);
+107:       assertSame(httpRequest0, httpRequest1);
+108:       assertSame(httpRequest1, httpRequest2);
+109:       assertSame(httpRequest1, httpRequest0);
+110:       assertSame(httpRequest2, httpRequest0);
+111:       assertSame(httpRequest2, httpRequest1);
+112:       assertNotNull(httpRequest2);
+113:       assertNull(uRL0.getQuery());
+114:       assertEquals((-1), uRL0.getDefaultPort());
+115:       assertNull(uRL0.getRef());
+116:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+117:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+118:       assertEquals((-1), uRL0.getPort());
+119:       assertNull(uRL0.getUserInfo());
+120:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+121:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+122:       assertEquals("http", uRL0.getProtocol());
+123:       assertTrue(httpRequest0.ignoreCloseExceptions());
+124:       assertEquals(8192, httpRequest0.bufferSize());
+125:       assertEquals(8192, httpRequest1.bufferSize());
+126:       assertTrue(httpRequest1.ignoreCloseExceptions());
+127:       assertTrue(hashMap0.isEmpty());
+128:       assertEquals(0, hashMap0.size());
+129:       assertTrue(httpRequest2.ignoreCloseExceptions());
+130:       assertEquals(8192, httpRequest2.bufferSize());
+131:       
+132:       HttpRequest httpRequest3 = httpRequest2.closeOutput();
+133:       assertSame(httpRequest0, httpRequest3);
+134:       assertSame(httpRequest0, httpRequest2);
+135:       assertSame(httpRequest0, httpRequest1);
+136:       assertSame(httpRequest1, httpRequest3);
+137:       assertSame(httpRequest1, httpRequest2);
+138:       assertSame(httpRequest1, httpRequest0);
+139:       assertSame(httpRequest2, httpRequest3);
+140:       assertSame(httpRequest2, httpRequest0);
+141:       assertSame(httpRequest2, httpRequest1);
+142:       assertSame(httpRequest3, httpRequest0);
+143:       assertSame(httpRequest3, httpRequest1);
+144:       assertSame(httpRequest3, httpRequest2);
+145:       assertNotNull(httpRequest3);
+146:       assertNull(uRL0.getQuery());
+147:       assertEquals((-1), uRL0.getDefaultPort());
+148:       assertNull(uRL0.getRef());
+149:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+150:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+151:       assertEquals((-1), uRL0.getPort());
+152:       assertNull(uRL0.getUserInfo());
+153:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+154:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+155:       assertEquals("http", uRL0.getProtocol());
+156:       assertTrue(httpRequest0.ignoreCloseExceptions());
+157:       assertEquals(8192, httpRequest0.bufferSize());
+158:       assertEquals(8192, httpRequest1.bufferSize());
+159:       assertTrue(httpRequest1.ignoreCloseExceptions());
+160:       assertTrue(hashMap0.isEmpty());
+161:       assertEquals(0, hashMap0.size());
+162:       assertTrue(httpRequest2.ignoreCloseExceptions());
+163:       assertEquals(8192, httpRequest2.bufferSize());
+164:       assertTrue(httpRequest3.ignoreCloseExceptions());
+165:       assertEquals(8192, httpRequest3.bufferSize());
+166:       
+167:       AtomicReference<String> atomicReference0 = new AtomicReference<String>("charset");
+168:       assertNotNull(atomicReference0);
+169:       assertEquals("charset", atomicReference0.toString());
+170:       
+171:       HttpRequest httpRequest4 = httpRequest2.acceptJson();
+172:       assertSame(httpRequest0, httpRequest3);
+173:       assertSame(httpRequest0, httpRequest2);
+174:       assertSame(httpRequest0, httpRequest1);
+175:       assertSame(httpRequest0, httpRequest4);
+176:       assertSame(httpRequest1, httpRequest3);
+177:       assertSame(httpRequest1, httpRequest2);
+178:       assertSame(httpRequest1, httpRequest4);
+179:       assertSame(httpRequest1, httpRequest0);
+180:       assertSame(httpRequest2, httpRequest3);
+181:       assertSame(httpRequest2, httpRequest0);
+182:       assertSame(httpRequest2, httpRequest4);
+183:       assertSame(httpRequest2, httpRequest1);
+184:       assertSame(httpRequest4, httpRequest2);
+185:       assertSame(httpRequest4, httpRequest1);
+186:       assertSame(httpRequest4, httpRequest3);
+187:       assertSame(httpRequest4, httpRequest0);
+188:       assertNotNull(httpRequest4);
+189:       assertNull(uRL0.getQuery());
+190:       assertEquals((-1), uRL0.getDefaultPort());
+191:       assertNull(uRL0.getRef());
+192:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+193:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+194:       assertEquals((-1), uRL0.getPort());
+195:       assertNull(uRL0.getUserInfo());
+196:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+197:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+198:       assertEquals("http", uRL0.getProtocol());
+199:       assertTrue(httpRequest0.ignoreCloseExceptions());
+200:       assertEquals(8192, httpRequest0.bufferSize());
+201:       assertEquals(8192, httpRequest1.bufferSize());
+202:       assertTrue(httpRequest1.ignoreCloseExceptions());
+203:       assertTrue(hashMap0.isEmpty());
+204:       assertEquals(0, hashMap0.size());
+205:       assertTrue(httpRequest2.ignoreCloseExceptions());
+206:       assertEquals(8192, httpRequest2.bufferSize());
+207:       assertEquals(8192, httpRequest4.bufferSize());
+208:       assertTrue(httpRequest4.ignoreCloseExceptions());
+209:       
+210:       try { 
+211:         httpRequest4.created();
+212:         fail("Expecting exception: RuntimeException");
+213:       
+214:       } catch(RuntimeException e) {
+215:          //
+216:          // org.evosuite.runtime.mock.java.lang.MockThrowable: Could not find: www.someFakeButWellFormedURL.org
+217:          //
+218:          verifyException("com.github.kevinsawicki.http.HttpRequest", e);
+219:       }
+220:   }
+221: }
+RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_20_1513329861410/com/github/kevinsawicki/http/HttpRequest_20_tmp__ESTest.java]
+1: /**
+2:  * Scaffolding file used to store all the setups needed to run 
+3:  * tests automatically generated by EvoSuite
+4:  * Fri Dec 15 09:24:21 GMT 2017
+5:  */
+6: 
+7: package com.github.kevinsawicki.http;
+8: 
+9: import org.evosuite.runtime.annotation.EvoSuiteClassExclude;
+10: import org.junit.BeforeClass;
+11: import org.junit.Before;
+12: import org.junit.After;
+13: import org.junit.AfterClass;
+14: import org.evosuite.runtime.sandbox.Sandbox;
+15: import org.evosuite.runtime.sandbox.Sandbox.SandboxMode;
+16: 
+17: import static org.evosuite.shaded.org.mockito.Mockito.*;
+18: @EvoSuiteClassExclude
+19: public class HttpRequest_20_tmp__ESTest_scaffolding {
+20: 
+21:   @org.junit.Rule 
+22:   public org.evosuite.runtime.vnet.NonFunctionalRequirementRule nfr = new org.evosuite.runtime.vnet.NonFunctionalRequirementRule();
+23: 
+24:   private static final java.util.Properties defaultProperties = (java.util.Properties) java.lang.System.getProperties().clone(); 
+25: 
+26:   private org.evosuite.runtime.thread.ThreadStopper threadStopper =  new org.evosuite.runtime.thread.ThreadStopper (org.evosuite.runtime.thread.KillSwitchHandler.getInstance(), 3000);
+27: 
+28: 
+29:   @BeforeClass 
+30:   public static void initEvoSuiteFramework() { 
+31:     org.evosuite.runtime.RuntimeSettings.className = "com.github.kevinsawicki.http.HttpRequest"; 
+32:     org.evosuite.runtime.GuiSupport.initialize(); 
+33:     org.evosuite.runtime.RuntimeSettings.maxNumberOfThreads = 100; 
+34:     org.evosuite.runtime.RuntimeSettings.maxNumberOfIterationsPerLoop = 10000; 
+35:     org.evosuite.runtime.RuntimeSettings.mockSystemIn = true; 
+36:     org.evosuite.runtime.RuntimeSettings.sandboxMode = org.evosuite.runtime.sandbox.Sandbox.SandboxMode.RECOMMENDED; 
+37:     org.evosuite.runtime.sandbox.Sandbox.initializeSecurityManagerForSUT(); 
+38:     org.evosuite.runtime.classhandling.JDKClassResetter.init();
+39:     setSystemProperties();
+40:     initializeClasses();
+41:     org.evosuite.runtime.Runtime.getInstance().resetRuntime(); 
+42:     try { initMocksToAvoidTimeoutsInTheTests(); } catch(ClassNotFoundException e) {} 
+43:   } 
+44: 
+45:   @AfterClass 
+46:   public static void clearEvoSuiteFramework(){ 
+47:     Sandbox.resetDefaultSecurityManager(); 
+48:     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
+49:   } 
+50: 
+51:   @Before 
+52:   public void initTestCase(){ 
+53:     threadStopper.storeCurrentThreads();
+54:     threadStopper.startRecordingTime();
+55:     org.evosuite.runtime.jvm.ShutdownHookHandler.getInstance().initHandler(); 
+56:     org.evosuite.runtime.sandbox.Sandbox.goingToExecuteSUTCode(); 
+57:     setSystemProperties(); 
+58:     org.evosuite.runtime.GuiSupport.setHeadless(); 
+59:     org.evosuite.runtime.Runtime.getInstance().resetRuntime(); 
+60:     org.evosuite.runtime.agent.InstrumentingAgent.activate(); 
+61:   } 
+62: 
+63:   @After 
+64:   public void doneWithTestCase(){ 
+65:     threadStopper.killAndJoinClientThreads();
+66:     org.evosuite.runtime.jvm.ShutdownHookHandler.getInstance().safeExecuteAddedHooks(); 
+67:     org.evosuite.runtime.classhandling.JDKClassResetter.reset(); 
+68:     resetClasses(); 
+69:     org.evosuite.runtime.sandbox.Sandbox.doneWithExecutingSUTCode(); 
+70:     org.evosuite.runtime.agent.InstrumentingAgent.deactivate(); 
+71:     org.evosuite.runtime.GuiSupport.restoreHeadlessMode(); 
+72:   } 
+73: 
+74:   public static void setSystemProperties() {
+75:  
+76:     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
+77:     java.lang.System.setProperty("file.encoding", "UTF-8"); 
+78:     java.lang.System.setProperty("java.awt.headless", "true"); 
+79:     java.lang.System.setProperty("user.country", "US"); 
+80:     java.lang.System.setProperty("user.language", "en"); 
+81:     java.lang.System.setProperty("user.timezone", "America/Los_Angeles"); 
+82:   }
+83: 
+84:   private static void initializeClasses() {
+85:     org.evosuite.runtime.classhandling.ClassStateSupport.initializeClasses(HttpRequest_20_tmp__ESTest_scaffolding.class.getClassLoader() ,
+86:       "com.github.kevinsawicki.http.HttpRequest$Base64",
+87:       "com.github.kevinsawicki.http.HttpRequest$RequestOutputStream",
+88:       "com.github.kevinsawicki.http.HttpRequest$CloseOperation",
+89:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory",
+90:       "com.github.kevinsawicki.http.HttpRequest",
+91:       "com.github.kevinsawicki.http.HttpRequest$FlushOperation",
+92:       "com.github.kevinsawicki.http.HttpRequest$HttpRequestException",
+93:       "com.github.kevinsawicki.http.HttpRequest$4",
+94:       "com.github.kevinsawicki.http.HttpRequest$3",
+95:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory$1",
+96:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress",
+97:       "com.github.kevinsawicki.http.HttpRequest$Operation",
+98:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress$1"
+99:     );
+100:   } 
+101:   private static void initMocksToAvoidTimeoutsInTheTests() throws ClassNotFoundException { 
+102:     mock(Class.forName("java.util.Comparator", false, HttpRequest_20_tmp__ESTest_scaffolding.class.getClassLoader()));
+103:   }
+104: 
+105:   private static void resetClasses() {
+106:     org.evosuite.runtime.classhandling.ClassResetter.getInstance().setClassLoader(HttpRequest_20_tmp__ESTest_scaffolding.class.getClassLoader()); 
+107: 
+108:     org.evosuite.runtime.classhandling.ClassStateSupport.resetClasses(
+109:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory",
+110:       "com.github.kevinsawicki.http.HttpRequest",
+111:       "com.github.kevinsawicki.http.HttpRequest$HttpRequestException",
+112:       "com.github.kevinsawicki.http.HttpRequest$Base64",
+113:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress"
+114:     );
+115:   }
+116: }
+
+[MASTER] 01:24:22.019 [pool-2-thread-1] ERROR JUnitAnalyzer - Failed to compile test case:
+URL uRL0 = MockURL.getHttpExample();
+assertNotNull(uRL0);
+assertNull(uRL0.getQuery());
+assertEquals((-1), uRL0.getDefaultPort());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http", uRL0.getProtocol());
+
+HttpRequest httpRequest0 = HttpRequest.options(uRL0);
+assertNotNull(httpRequest0);
+assertNull(uRL0.getQuery());
+assertEquals((-1), uRL0.getDefaultPort());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http", uRL0.getProtocol());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+
+boolean boolean0 = FileSystemHandling.createFolder((EvoSuiteFile) null);
+assertFalse(boolean0);
+
+boolean boolean1 = NetworkHandling.createRemoteTextFile((EvoSuiteURL) null, "Last-Modified");
+assertFalse(boolean1);
+assertTrue(boolean1 == boolean0);
+
+AbstractMap.SimpleImmutableEntry<String, String> abstractMap_SimpleImmutableEntry0 = new AbstractMap.SimpleImmutableEntry<String, String>("POST", "");
+assertNotNull(abstractMap_SimpleImmutableEntry0);
+
+HttpRequest httpRequest1 = httpRequest0.header((Map.Entry<String, String>) abstractMap_SimpleImmutableEntry0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest0);
+assertNotNull(httpRequest1);
+assertNull(uRL0.getQuery());
+assertEquals((-1), uRL0.getDefaultPort());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http", uRL0.getProtocol());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+
+HashMap<HPos, GraphicsDevice.WindowTranslucency> hashMap0 = new HashMap<HPos, GraphicsDevice.WindowTranslucency>();
+assertNotNull(hashMap0);
+assertTrue(hashMap0.isEmpty());
+assertEquals(0, hashMap0.size());
+
+Comparator<Object> comparator0 = (Comparator<Object>) mock(Comparator.class, new ViolatedAssumptionAnswer());
+Comparator<Map.Entry<MultipleGradientPaint.CycleMethod, ClientInfoStatus>> comparator1 = (Comparator<Map.Entry<MultipleGradientPaint.CycleMethod, ClientInfoStatus>>)Map.Entry.comparingByValue((Comparator<? super ClientInfoStatus>) comparator0);
+assertNotNull(comparator1);
+
+HttpRequest httpRequest2 = httpRequest1.form((Map<?, ?>) hashMap0);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest0);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest1);
+assertNotNull(httpRequest2);
+assertNull(uRL0.getQuery());
+assertEquals((-1), uRL0.getDefaultPort());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http", uRL0.getProtocol());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertTrue(hashMap0.isEmpty());
+assertEquals(0, hashMap0.size());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertEquals(8192, httpRequest2.bufferSize());
+
+HttpRequest httpRequest3 = httpRequest2.closeOutput();
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest0);
+assertSame(httpRequest2, httpRequest3);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest3, httpRequest0);
+assertSame(httpRequest3, httpRequest1);
+assertSame(httpRequest3, httpRequest2);
+assertNotNull(httpRequest3);
+assertNull(uRL0.getQuery());
+assertEquals((-1), uRL0.getDefaultPort());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http", uRL0.getProtocol());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertTrue(hashMap0.isEmpty());
+assertEquals(0, hashMap0.size());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest3.ignoreCloseExceptions());
+assertEquals(8192, httpRequest3.bufferSize());
+
+AtomicReference<String> atomicReference0 = new AtomicReference<String>("charset");
+assertNotNull(atomicReference0);
+assertEquals("charset", atomicReference0.toString());
+
+HttpRequest httpRequest4 = httpRequest2.acceptJson();
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest0, httpRequest4);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest4);
+assertSame(httpRequest1, httpRequest0);
+assertSame(httpRequest2, httpRequest3);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest4);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest4, httpRequest2);
+assertSame(httpRequest4, httpRequest1);
+assertSame(httpRequest4, httpRequest3);
+assertSame(httpRequest4, httpRequest0);
+assertNotNull(httpRequest4);
+assertNull(uRL0.getQuery());
+assertEquals((-1), uRL0.getDefaultPort());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals("http", uRL0.getProtocol());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertTrue(hashMap0.isEmpty());
+assertEquals(0, hashMap0.size());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertEquals(8192, httpRequest2.bufferSize());
+assertEquals(8192, httpRequest4.bufferSize());
+assertTrue(httpRequest4.ignoreCloseExceptions());
+
+httpRequest4.created();
+
+[MASTER] 01:24:27.432 [pool-2-thread-1] ERROR JUnitAnalyzer - Compilation failed on compilation units: [RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_36_1513329867113/com/github/kevinsawicki/http/HttpRequest_36_tmp__ESTest.java], RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_36_1513329867113/com/github/kevinsawicki/http/HttpRequest_36_tmp__ESTest_scaffolding.java]]
+[MASTER] 01:24:27.432 [pool-2-thread-1] ERROR JUnitAnalyzer - Classpath: /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/evosuite/master/target/evosuite-master-1.0.6-SNAPSHOT.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar
+[MASTER] 01:24:27.432 [pool-2-thread-1] ERROR JUnitAnalyzer - evosuiteCP: /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/evosuite/master/target/evosuite-master-1.0.6-SNAPSHOT.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes:/Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes:/Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar:/Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar
+[MASTER] 01:24:27.434 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: incompatible types: java.util.Comparator<java.util.Map.Entry<java.lang.Object,java.sql.ClientInfoStatus>> cannot be converted to java.util.Comparator<java.util.Map.Entry<java.awt.MultipleGradientPaint.CycleMethod,java.sql.ClientInfoStatus>>: 101
+[MASTER] 01:24:27.434 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: /var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_36_1513329867113/com/github/kevinsawicki/http/HttpRequest_36_tmp__ESTest.java uses unchecked or unsafe operations.: -1
+[MASTER] 01:24:27.435 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: Recompile with -Xlint:unchecked for details.: -1
+[MASTER] 01:24:27.436 [pool-2-thread-1] ERROR JUnitAnalyzer - RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_36_1513329867113/com/github/kevinsawicki/http/HttpRequest_36_tmp__ESTest.java]
+1: /*
+2:  * This file was automatically generated by EvoSuite
+3:  * Fri Dec 15 09:24:27 GMT 2017
+4:  */
+5: 
+6: package com.github.kevinsawicki.http;
+7: 
+8: import org.junit.Test;
+9: import static org.junit.Assert.*;
+10: import static org.evosuite.shaded.org.mockito.Mockito.*;
+11: import static org.evosuite.runtime.MockitoExtension.*;
+12: import com.github.kevinsawicki.http.HttpRequest;
+13: import java.awt.GraphicsDevice;
+14: import java.awt.MultipleGradientPaint;
+15: import java.net.URL;
+16: import java.sql.ClientInfoStatus;
+17: import java.util.AbstractMap;
+18: import java.util.Comparator;
+19: import java.util.HashMap;
+20: import java.util.Map;
+21: import java.util.concurrent.atomic.AtomicReference;
+22: import javafx.geometry.HPos;
+23: import org.evosuite.runtime.EvoRunner;
+24: import org.evosuite.runtime.EvoRunnerParameters;
+25: import org.evosuite.runtime.ViolatedAssumptionAnswer;
+26: import org.evosuite.runtime.mock.java.net.MockURL;
+27: import org.evosuite.runtime.testdata.EvoSuiteFile;
+28: import org.evosuite.runtime.testdata.EvoSuiteURL;
+29: import org.evosuite.runtime.testdata.FileSystemHandling;
+30: import org.evosuite.runtime.testdata.NetworkHandling;
+31: import org.junit.runner.RunWith;
+32: 
+33: @RunWith(EvoRunner.class) @EvoRunnerParameters(mockJVMNonDeterminism = true, useVFS = true, useVNET = true, resetStaticState = true, useJEE = true) 
+34: public class HttpRequest_36_tmp__ESTest extends HttpRequest_36_tmp__ESTest_scaffolding {
+35: 
+36:   @Test(timeout = 4000)
+37:   public void test0()  throws Throwable  {
+38:       URL uRL0 = MockURL.getHttpExample();
+39:       assertNotNull(uRL0);
+40:       assertEquals((-1), uRL0.getDefaultPort());
+41:       assertEquals("http", uRL0.getProtocol());
+42:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+43:       assertNull(uRL0.getRef());
+44:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+45:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+46:       assertEquals((-1), uRL0.getPort());
+47:       assertNull(uRL0.getUserInfo());
+48:       assertNull(uRL0.getQuery());
+49:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+50:       
+51:       HttpRequest httpRequest0 = HttpRequest.options(uRL0);
+52:       assertNotNull(httpRequest0);
+53:       assertEquals((-1), uRL0.getDefaultPort());
+54:       assertEquals("http", uRL0.getProtocol());
+55:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+56:       assertNull(uRL0.getRef());
+57:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+58:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+59:       assertEquals((-1), uRL0.getPort());
+60:       assertNull(uRL0.getUserInfo());
+61:       assertNull(uRL0.getQuery());
+62:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+63:       assertTrue(httpRequest0.ignoreCloseExceptions());
+64:       assertEquals(8192, httpRequest0.bufferSize());
+65:       
+66:       boolean boolean0 = NetworkHandling.createRemoteTextFile((EvoSuiteURL) null, "9p8}P5{tw}`]G");
+67:       assertFalse(boolean0);
+68:       
+69:       AbstractMap.SimpleImmutableEntry<String, String> abstractMap_SimpleImmutableEntry0 = new AbstractMap.SimpleImmutableEntry<String, String>("POST", "");
+70:       assertNotNull(abstractMap_SimpleImmutableEntry0);
+71:       
+72:       HttpRequest httpRequest1 = httpRequest0.header((Map.Entry<String, String>) abstractMap_SimpleImmutableEntry0);
+73:       assertSame(httpRequest0, httpRequest1);
+74:       assertSame(httpRequest1, httpRequest0);
+75:       assertNotNull(httpRequest1);
+76:       assertEquals((-1), uRL0.getDefaultPort());
+77:       assertEquals("http", uRL0.getProtocol());
+78:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+79:       assertNull(uRL0.getRef());
+80:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+81:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+82:       assertEquals((-1), uRL0.getPort());
+83:       assertNull(uRL0.getUserInfo());
+84:       assertNull(uRL0.getQuery());
+85:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+86:       assertTrue(httpRequest0.ignoreCloseExceptions());
+87:       assertEquals(8192, httpRequest0.bufferSize());
+88:       assertEquals(8192, httpRequest1.bufferSize());
+89:       assertTrue(httpRequest1.ignoreCloseExceptions());
+90:       
+91:       HashMap<HPos, GraphicsDevice.WindowTranslucency> hashMap0 = new HashMap<HPos, GraphicsDevice.WindowTranslucency>();
+92:       assertNotNull(hashMap0);
+93:       assertEquals(0, hashMap0.size());
+94:       assertTrue(hashMap0.isEmpty());
+95:       
+96:       Comparator<Object> comparator0 = (Comparator<Object>) mock(Comparator.class, new ViolatedAssumptionAnswer());
+97:       boolean boolean1 = FileSystemHandling.createFolder((EvoSuiteFile) null);
+98:       assertFalse(boolean1);
+99:       assertTrue(boolean1 == boolean0);
+100:       
+101:       Comparator<Map.Entry<MultipleGradientPaint.CycleMethod, ClientInfoStatus>> comparator1 = (Comparator<Map.Entry<MultipleGradientPaint.CycleMethod, ClientInfoStatus>>)Map.Entry.comparingByValue((Comparator<? super ClientInfoStatus>) comparator0);
+102:       assertNotNull(comparator1);
+103:       
+104:       HttpRequest httpRequest2 = httpRequest1.form((Map<?, ?>) hashMap0);
+105:       assertSame(httpRequest0, httpRequest2);
+106:       assertSame(httpRequest0, httpRequest1);
+107:       assertSame(httpRequest1, httpRequest0);
+108:       assertSame(httpRequest1, httpRequest2);
+109:       assertSame(httpRequest2, httpRequest1);
+110:       assertSame(httpRequest2, httpRequest0);
+111:       assertNotNull(httpRequest2);
+112:       assertEquals((-1), uRL0.getDefaultPort());
+113:       assertEquals("http", uRL0.getProtocol());
+114:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+115:       assertNull(uRL0.getRef());
+116:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+117:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+118:       assertEquals((-1), uRL0.getPort());
+119:       assertNull(uRL0.getUserInfo());
+120:       assertNull(uRL0.getQuery());
+121:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+122:       assertTrue(httpRequest0.ignoreCloseExceptions());
+123:       assertEquals(8192, httpRequest0.bufferSize());
+124:       assertEquals(8192, httpRequest1.bufferSize());
+125:       assertTrue(httpRequest1.ignoreCloseExceptions());
+126:       assertEquals(0, hashMap0.size());
+127:       assertTrue(hashMap0.isEmpty());
+128:       assertTrue(httpRequest2.ignoreCloseExceptions());
+129:       assertEquals(8192, httpRequest2.bufferSize());
+130:       
+131:       HttpRequest httpRequest3 = httpRequest2.closeOutput();
+132:       assertSame(httpRequest0, httpRequest3);
+133:       assertSame(httpRequest0, httpRequest2);
+134:       assertSame(httpRequest0, httpRequest1);
+135:       assertSame(httpRequest1, httpRequest3);
+136:       assertSame(httpRequest1, httpRequest0);
+137:       assertSame(httpRequest1, httpRequest2);
+138:       assertSame(httpRequest2, httpRequest1);
+139:       assertSame(httpRequest2, httpRequest0);
+140:       assertSame(httpRequest2, httpRequest3);
+141:       assertSame(httpRequest3, httpRequest2);
+142:       assertSame(httpRequest3, httpRequest1);
+143:       assertSame(httpRequest3, httpRequest0);
+144:       assertNotNull(httpRequest3);
+145:       assertEquals((-1), uRL0.getDefaultPort());
+146:       assertEquals("http", uRL0.getProtocol());
+147:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+148:       assertNull(uRL0.getRef());
+149:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+150:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+151:       assertEquals((-1), uRL0.getPort());
+152:       assertNull(uRL0.getUserInfo());
+153:       assertNull(uRL0.getQuery());
+154:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+155:       assertTrue(httpRequest0.ignoreCloseExceptions());
+156:       assertEquals(8192, httpRequest0.bufferSize());
+157:       assertEquals(8192, httpRequest1.bufferSize());
+158:       assertTrue(httpRequest1.ignoreCloseExceptions());
+159:       assertEquals(0, hashMap0.size());
+160:       assertTrue(hashMap0.isEmpty());
+161:       assertTrue(httpRequest2.ignoreCloseExceptions());
+162:       assertEquals(8192, httpRequest2.bufferSize());
+163:       assertTrue(httpRequest3.ignoreCloseExceptions());
+164:       assertEquals(8192, httpRequest3.bufferSize());
+165:       
+166:       AtomicReference<String> atomicReference0 = new AtomicReference<String>("charset");
+167:       assertNotNull(atomicReference0);
+168:       assertEquals("charset", atomicReference0.toString());
+169:       
+170:       HttpRequest httpRequest4 = httpRequest3.basic("Content-Length", "ETag");
+171:       assertSame(httpRequest0, httpRequest3);
+172:       assertSame(httpRequest0, httpRequest4);
+173:       assertSame(httpRequest0, httpRequest2);
+174:       assertSame(httpRequest0, httpRequest1);
+175:       assertSame(httpRequest1, httpRequest3);
+176:       assertSame(httpRequest1, httpRequest0);
+177:       assertSame(httpRequest1, httpRequest2);
+178:       assertSame(httpRequest1, httpRequest4);
+179:       assertSame(httpRequest2, httpRequest4);
+180:       assertSame(httpRequest2, httpRequest1);
+181:       assertSame(httpRequest2, httpRequest0);
+182:       assertSame(httpRequest2, httpRequest3);
+183:       assertSame(httpRequest3, httpRequest4);
+184:       assertSame(httpRequest3, httpRequest2);
+185:       assertSame(httpRequest3, httpRequest1);
+186:       assertSame(httpRequest3, httpRequest0);
+187:       assertSame(httpRequest4, httpRequest1);
+188:       assertSame(httpRequest4, httpRequest3);
+189:       assertSame(httpRequest4, httpRequest0);
+190:       assertSame(httpRequest4, httpRequest2);
+191:       assertNotNull(httpRequest4);
+192:       assertEquals((-1), uRL0.getDefaultPort());
+193:       assertEquals("http", uRL0.getProtocol());
+194:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+195:       assertNull(uRL0.getRef());
+196:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+197:       assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+198:       assertEquals((-1), uRL0.getPort());
+199:       assertNull(uRL0.getUserInfo());
+200:       assertNull(uRL0.getQuery());
+201:       assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+202:       assertTrue(httpRequest0.ignoreCloseExceptions());
+203:       assertEquals(8192, httpRequest0.bufferSize());
+204:       assertEquals(8192, httpRequest1.bufferSize());
+205:       assertTrue(httpRequest1.ignoreCloseExceptions());
+206:       assertEquals(0, hashMap0.size());
+207:       assertTrue(hashMap0.isEmpty());
+208:       assertTrue(httpRequest2.ignoreCloseExceptions());
+209:       assertEquals(8192, httpRequest2.bufferSize());
+210:       assertTrue(httpRequest3.ignoreCloseExceptions());
+211:       assertEquals(8192, httpRequest3.bufferSize());
+212:       assertEquals(8192, httpRequest4.bufferSize());
+213:       assertTrue(httpRequest4.ignoreCloseExceptions());
+214:   }
+215: }
+RegularFileObject[/var/folders/v8/rj6w407j3xx_dly8hk6y81w40000gn/T/EvoSuite_36_1513329867113/com/github/kevinsawicki/http/HttpRequest_36_tmp__ESTest.java]
+1: /**
+2:  * Scaffolding file used to store all the setups needed to run 
+3:  * tests automatically generated by EvoSuite
+4:  * Fri Dec 15 09:24:27 GMT 2017
+5:  */
+6: 
+7: package com.github.kevinsawicki.http;
+8: 
+9: import org.evosuite.runtime.annotation.EvoSuiteClassExclude;
+10: import org.junit.BeforeClass;
+11: import org.junit.Before;
+12: import org.junit.After;
+13: import org.junit.AfterClass;
+14: import org.evosuite.runtime.sandbox.Sandbox;
+15: import org.evosuite.runtime.sandbox.Sandbox.SandboxMode;
+16: 
+17: import static org.evosuite.shaded.org.mockito.Mockito.*;
+18: @EvoSuiteClassExclude
+19: public class HttpRequest_36_tmp__ESTest_scaffolding {
+20: 
+21:   @org.junit.Rule 
+22:   public org.evosuite.runtime.vnet.NonFunctionalRequirementRule nfr = new org.evosuite.runtime.vnet.NonFunctionalRequirementRule();
+23: 
+24:   private static final java.util.Properties defaultProperties = (java.util.Properties) java.lang.System.getProperties().clone(); 
+25: 
+26:   private org.evosuite.runtime.thread.ThreadStopper threadStopper =  new org.evosuite.runtime.thread.ThreadStopper (org.evosuite.runtime.thread.KillSwitchHandler.getInstance(), 3000);
+27: 
+28: 
+29:   @BeforeClass 
+30:   public static void initEvoSuiteFramework() { 
+31:     org.evosuite.runtime.RuntimeSettings.className = "com.github.kevinsawicki.http.HttpRequest"; 
+32:     org.evosuite.runtime.GuiSupport.initialize(); 
+33:     org.evosuite.runtime.RuntimeSettings.maxNumberOfThreads = 100; 
+34:     org.evosuite.runtime.RuntimeSettings.maxNumberOfIterationsPerLoop = 10000; 
+35:     org.evosuite.runtime.RuntimeSettings.mockSystemIn = true; 
+36:     org.evosuite.runtime.RuntimeSettings.sandboxMode = org.evosuite.runtime.sandbox.Sandbox.SandboxMode.RECOMMENDED; 
+37:     org.evosuite.runtime.sandbox.Sandbox.initializeSecurityManagerForSUT(); 
+38:     org.evosuite.runtime.classhandling.JDKClassResetter.init();
+39:     setSystemProperties();
+40:     initializeClasses();
+41:     org.evosuite.runtime.Runtime.getInstance().resetRuntime(); 
+42:     try { initMocksToAvoidTimeoutsInTheTests(); } catch(ClassNotFoundException e) {} 
+43:   } 
+44: 
+45:   @AfterClass 
+46:   public static void clearEvoSuiteFramework(){ 
+47:     Sandbox.resetDefaultSecurityManager(); 
+48:     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
+49:   } 
+50: 
+51:   @Before 
+52:   public void initTestCase(){ 
+53:     threadStopper.storeCurrentThreads();
+54:     threadStopper.startRecordingTime();
+55:     org.evosuite.runtime.jvm.ShutdownHookHandler.getInstance().initHandler(); 
+56:     org.evosuite.runtime.sandbox.Sandbox.goingToExecuteSUTCode(); 
+57:     setSystemProperties(); 
+58:     org.evosuite.runtime.GuiSupport.setHeadless(); 
+59:     org.evosuite.runtime.Runtime.getInstance().resetRuntime(); 
+60:     org.evosuite.runtime.agent.InstrumentingAgent.activate(); 
+61:   } 
+62: 
+63:   @After 
+64:   public void doneWithTestCase(){ 
+65:     threadStopper.killAndJoinClientThreads();
+66:     org.evosuite.runtime.jvm.ShutdownHookHandler.getInstance().safeExecuteAddedHooks(); 
+67:     org.evosuite.runtime.classhandling.JDKClassResetter.reset(); 
+68:     resetClasses(); 
+69:     org.evosuite.runtime.sandbox.Sandbox.doneWithExecutingSUTCode(); 
+70:     org.evosuite.runtime.agent.InstrumentingAgent.deactivate(); 
+71:     org.evosuite.runtime.GuiSupport.restoreHeadlessMode(); 
+72:   } 
+73: 
+74:   public static void setSystemProperties() {
+75:  
+76:     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
+77:     java.lang.System.setProperty("file.encoding", "UTF-8"); 
+78:     java.lang.System.setProperty("java.awt.headless", "true"); 
+79:     java.lang.System.setProperty("user.country", "US"); 
+80:     java.lang.System.setProperty("user.language", "en"); 
+81:     java.lang.System.setProperty("user.timezone", "America/Los_Angeles"); 
+82:   }
+83: 
+84:   private static void initializeClasses() {
+85:     org.evosuite.runtime.classhandling.ClassStateSupport.initializeClasses(HttpRequest_36_tmp__ESTest_scaffolding.class.getClassLoader() ,
+86:       "com.github.kevinsawicki.http.HttpRequest$Base64",
+87:       "com.github.kevinsawicki.http.HttpRequest$RequestOutputStream",
+88:       "com.github.kevinsawicki.http.HttpRequest$CloseOperation",
+89:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory",
+90:       "com.github.kevinsawicki.http.HttpRequest",
+91:       "com.github.kevinsawicki.http.HttpRequest$FlushOperation",
+92:       "com.github.kevinsawicki.http.HttpRequest$HttpRequestException",
+93:       "com.github.kevinsawicki.http.HttpRequest$4",
+94:       "com.github.kevinsawicki.http.HttpRequest$3",
+95:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory$1",
+96:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress",
+97:       "com.github.kevinsawicki.http.HttpRequest$Operation",
+98:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress$1"
+99:     );
+100:   } 
+101:   private static void initMocksToAvoidTimeoutsInTheTests() throws ClassNotFoundException { 
+102:     mock(Class.forName("java.util.Comparator", false, HttpRequest_36_tmp__ESTest_scaffolding.class.getClassLoader()));
+103:   }
+104: 
+105:   private static void resetClasses() {
+106:     org.evosuite.runtime.classhandling.ClassResetter.getInstance().setClassLoader(HttpRequest_36_tmp__ESTest_scaffolding.class.getClassLoader()); 
+107: 
+108:     org.evosuite.runtime.classhandling.ClassStateSupport.resetClasses(
+109:       "com.github.kevinsawicki.http.HttpRequest$ConnectionFactory",
+110:       "com.github.kevinsawicki.http.HttpRequest",
+111:       "com.github.kevinsawicki.http.HttpRequest$HttpRequestException",
+112:       "com.github.kevinsawicki.http.HttpRequest$Base64",
+113:       "com.github.kevinsawicki.http.HttpRequest$UploadProgress"
+114:     );
+115:   }
+116: }
+
+[MASTER] 01:24:27.595 [pool-2-thread-1] ERROR JUnitAnalyzer - Failed to compile test case:
+URL uRL0 = MockURL.getHttpExample();
+assertNotNull(uRL0);
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertNull(uRL0.getQuery());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+
+HttpRequest httpRequest0 = HttpRequest.options(uRL0);
+assertNotNull(httpRequest0);
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertNull(uRL0.getQuery());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+
+boolean boolean0 = NetworkHandling.createRemoteTextFile((EvoSuiteURL) null, "9p8}P5{tw}`]G");
+assertFalse(boolean0);
+
+AbstractMap.SimpleImmutableEntry<String, String> abstractMap_SimpleImmutableEntry0 = new AbstractMap.SimpleImmutableEntry<String, String>("POST", "");
+assertNotNull(abstractMap_SimpleImmutableEntry0);
+
+HttpRequest httpRequest1 = httpRequest0.header((Map.Entry<String, String>) abstractMap_SimpleImmutableEntry0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest0);
+assertNotNull(httpRequest1);
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertNull(uRL0.getQuery());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+
+HashMap<HPos, GraphicsDevice.WindowTranslucency> hashMap0 = new HashMap<HPos, GraphicsDevice.WindowTranslucency>();
+assertNotNull(hashMap0);
+assertEquals(0, hashMap0.size());
+assertTrue(hashMap0.isEmpty());
+
+Comparator<Object> comparator0 = (Comparator<Object>) mock(Comparator.class, new ViolatedAssumptionAnswer());
+boolean boolean1 = FileSystemHandling.createFolder((EvoSuiteFile) null);
+assertFalse(boolean1);
+assertTrue(boolean1 == boolean0);
+
+Comparator<Map.Entry<MultipleGradientPaint.CycleMethod, ClientInfoStatus>> comparator1 = (Comparator<Map.Entry<MultipleGradientPaint.CycleMethod, ClientInfoStatus>>)Map.Entry.comparingByValue((Comparator<? super ClientInfoStatus>) comparator0);
+assertNotNull(comparator1);
+
+HttpRequest httpRequest2 = httpRequest1.form((Map<?, ?>) hashMap0);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest0);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+assertNotNull(httpRequest2);
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertNull(uRL0.getQuery());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(0, hashMap0.size());
+assertTrue(hashMap0.isEmpty());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertEquals(8192, httpRequest2.bufferSize());
+
+HttpRequest httpRequest3 = httpRequest2.closeOutput();
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest0);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest3);
+assertSame(httpRequest3, httpRequest2);
+assertSame(httpRequest3, httpRequest1);
+assertSame(httpRequest3, httpRequest0);
+assertNotNull(httpRequest3);
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertNull(uRL0.getQuery());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(0, hashMap0.size());
+assertTrue(hashMap0.isEmpty());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest3.ignoreCloseExceptions());
+assertEquals(8192, httpRequest3.bufferSize());
+
+AtomicReference<String> atomicReference0 = new AtomicReference<String>("charset");
+assertNotNull(atomicReference0);
+assertEquals("charset", atomicReference0.toString());
+
+HttpRequest httpRequest4 = httpRequest3.basic("Content-Length", "ETag");
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest0, httpRequest4);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest0);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest1, httpRequest4);
+assertSame(httpRequest2, httpRequest4);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+assertSame(httpRequest2, httpRequest3);
+assertSame(httpRequest3, httpRequest4);
+assertSame(httpRequest3, httpRequest2);
+assertSame(httpRequest3, httpRequest1);
+assertSame(httpRequest3, httpRequest0);
+assertSame(httpRequest4, httpRequest1);
+assertSame(httpRequest4, httpRequest3);
+assertSame(httpRequest4, httpRequest0);
+assertSame(httpRequest4, httpRequest2);
+assertNotNull(httpRequest4);
+assertEquals((-1), uRL0.getDefaultPort());
+assertEquals("http", uRL0.getProtocol());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals((-1), uRL0.getPort());
+assertNull(uRL0.getUserInfo());
+assertNull(uRL0.getQuery());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertEquals(8192, httpRequest0.bufferSize());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(0, hashMap0.size());
+assertTrue(hashMap0.isEmpty());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest3.ignoreCloseExceptions());
+assertEquals(8192, httpRequest3.bufferSize());
+assertEquals(8192, httpRequest4.bufferSize());
+assertTrue(httpRequest4.ignoreCloseExceptions());
+
+

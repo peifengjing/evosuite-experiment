@@ -1,0 +1,194 @@
+* Starting client
+* Connecting to master process on port 3903
+* Analyzing classpath: 
+  - /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar
+  - /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes
+  - /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes
+  - /Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar
+  - /Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar
+* Finished analyzing classpath
+* Generating tests for class com.github.kevinsawicki.http.HttpRequest
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 05:31:21.203 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/.evosuite/evosuite-seeds/com.github.kevinsawicki.http.HttpRequest.seed
+* Loaded 0 tests from /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/.evosuite/evosuite-seeds/com.github.kevinsawicki.http.HttpRequest.seed
+* Total number of test goals: 
+  - Line 706
+  - Branch 463
+  - Exception 0
+  - MutationFactory 830
+  - Output 758
+  - Method 172
+  - MethodNoException 172
+  - CBranchFitnessFactory 463
+* Using seed 1513344661195
+* Starting evolution
+
+Start Time: 2017-12-15T13:31:47.174Z
+[CS527 Peifeng] [Coverage: 30.36%] [Elapsed Time: 0:00:06 | 6030 mS]
+[CS527 Peifeng] [Coverage: 30.67%] [Elapsed Time: 0:00:07 | 7679 mS]
+[CS527 Peifeng] [Coverage: 30.79%] [Elapsed Time: 0:00:13 | 13779 mS]
+[CS527 Peifeng] [Coverage: 31.68%] [Elapsed Time: 0:00:15 | 15506 mS]
+[CS527 Peifeng] [Coverage: 32.10%] [Elapsed Time: 0:00:16 | 16690 mS]
+[CS527 Peifeng] [Coverage: 32.25%] [Elapsed Time: 0:00:18 | 18266 mS]
+[CS527 Peifeng] [Coverage: 32.53%] [Elapsed Time: 0:00:29 | 29830 mS]
+[CS527 Peifeng] [Coverage: 32.80%] [Elapsed Time: 0:00:31 | 31733 mS]
+[CS527 Peifeng] [Coverage: 33.31%] [Elapsed Time: 0:00:33 | 33959 mS]
+[CS527 Peifeng] [Coverage: 34.11%] [Elapsed Time: 0:00:34 | 34938 mS]
+[CS527 Peifeng] [Coverage: 34.91%] [Elapsed Time: 0:00:35 | 35776 mS]
+[CS527 Peifeng] [Coverage: 35.04%] [Elapsed Time: 0:00:36 | 36820 mS]
+[CS527 Peifeng] [Coverage: 35.29%] [Elapsed Time: 0:00:42 | 42508 mS]
+[CS527 Peifeng] [Coverage: 35.43%] [Elapsed Time: 0:00:58 | 58947 mS]
+[CS527 Peifeng] [Coverage: 35.50%] [Elapsed Time: 0:01:00 | 60498 mS]
+[CS527 Peifeng] [Coverage: 36.39%] [Elapsed Time: 0:01:06 | 66547 mS]
+[CS527 Peifeng] [Coverage: 36.59%] [Elapsed Time: 0:01:18 | 78386 mS]
+[CS527 Peifeng] [Coverage: 36.78%] [Elapsed Time: 0:01:34 | 94372 mS]
+[CS527 Peifeng] [Coverage: 36.78%] [Elapsed Time: 0:01:36 | 96389 mS]
+[CS527 Peifeng] [Coverage: 36.88%] [Elapsed Time: 0:01:50 | 110319 mS]
+[CS527 Peifeng] [Coverage: 37.21%] [Elapsed Time: 0:01:57 | 117589 mS]
+[CS527 Peifeng] [Coverage: 37.29%] [Elapsed Time: 0:02:04 | 124081 mS]
+[CS527 Peifeng] [Coverage: 37.31%] [Elapsed Time: 0:02:05 | 125729 mS]
+[CS527 Peifeng] [Coverage: 37.47%] [Elapsed Time: 0:02:07 | 127493 mS]
+[CS527 Peifeng] [Coverage: 37.49%] [Elapsed Time: 0:02:14 | 134137 mS]
+[CS527 Peifeng] [Coverage: 38.12%] [Elapsed Time: 0:02:20 | 140681 mS]
+[CS527 Peifeng] [Coverage: 38.15%] [Elapsed Time: 0:02:26 | 146515 mS]
+[CS527 Peifeng] [Coverage: 38.26%] [Elapsed Time: 0:02:37 | 157902 mS]
+[CS527 Peifeng] [Coverage: 38.26%] [Elapsed Time: 0:02:38 | 158484 mS]
+[CS527 Peifeng] [Coverage: 38.48%] [Elapsed Time: 0:02:44 | 164118 mS]
+[CS527 Peifeng] [Coverage: 38.54%] [Elapsed Time: 0:02:44 | 164760 mS]
+[CS527 Peifeng] [Coverage: 38.65%] [Elapsed Time: 0:02:50 | 170646 mS]
+[CS527 Peifeng] [Coverage: 38.68%] [Elapsed Time: 0:02:51 | 171150 mS]
+[CS527 Peifeng] [Coverage: 38.84%] [Elapsed Time: 0:02:57 | 177091 mS]
+[CS527 Peifeng] [Coverage: 39.17%] [Elapsed Time: 0:03:02 | 182721 mS]
+[CS527 Peifeng] [Coverage: 39.32%] [Elapsed Time: 0:03:03 | 183641 mS]
+[CS527 Peifeng] [Coverage: 39.45%] [Elapsed Time: 0:03:04 | 184547 mS]
+[CS527 Peifeng] [Coverage: 39.50%] [Elapsed Time: 0:03:10 | 190119 mS]
+[CS527 Peifeng] [Coverage: 39.75%] [Elapsed Time: 0:03:10 | 190899 mS]
+[CS527 Peifeng] [Coverage: 40.30%] [Elapsed Time: 0:03:21 | 201673 mS]
+[CS527 Peifeng] [Coverage: 41.05%] [Elapsed Time: 0:03:27 | 207774 mS]
+[CS527 Peifeng] [Coverage: 41.64%] [Elapsed Time: 0:03:28 | 208851 mS]
+[CS527 Peifeng] [Coverage: 41.75%] [Elapsed Time: 0:03:34 | 214555 mS]
+[CS527 Peifeng] [Coverage: 42.10%] [Elapsed Time: 0:03:35 | 215429 mS]
+[CS527 Peifeng] [Coverage: 42.22%] [Elapsed Time: 0:03:41 | 221428 mS]
+[CS527 Peifeng] [Coverage: 42.73%] [Elapsed Time: 0:03:42 | 222492 mS]
+[CS527 Peifeng] [Coverage: 43.38%] [Elapsed Time: 0:03:43 | 223159 mS]
+[CS527 Peifeng] [Coverage: 43.57%] [Elapsed Time: 0:03:43 | 223941 mS]
+[CS527 Peifeng] [Coverage: 43.84%] [Elapsed Time: 0:03:44 | 224953 mS]
+[CS527 Peifeng] [Coverage: 44.56%] [Elapsed Time: 0:03:45 | 225782 mS]
+[CS527 Peifeng] [Coverage: 44.66%] [Elapsed Time: 0:03:46 | 226518 mS]
+[CS527 Peifeng] [Coverage: 44.66%] [Elapsed Time: 0:03:47 | 227064 mS]
+[CS527 Peifeng] [Coverage: 44.71%] [Elapsed Time: 0:03:47 | 227803 mS]
+[CS527 Peifeng] [Coverage: 44.71%] [Elapsed Time: 0:03:48 | 228442 mS]
+[CS527 Peifeng] [Coverage: 44.97%] [Elapsed Time: 0:03:49 | 229031 mS]
+[CS527 Peifeng] [Coverage: 45.32%] [Elapsed Time: 0:03:49 | 229749 mS]
+[CS527 Peifeng] [Coverage: 45.60%] [Elapsed Time: 0:03:50 | 230743 mS]
+[CS527 Peifeng] [Coverage: 45.86%] [Elapsed Time: 0:03:51 | 231718 mS]
+[CS527 Peifeng] [Coverage: 46.09%] [Elapsed Time: 0:03:52 | 232484 mS]
+[CS527 Peifeng] [Coverage: 46.28%] [Elapsed Time: 0:03:53 | 233376 mS]
+[CS527 Peifeng] [Coverage: 46.28%] [Elapsed Time: 0:03:53 | 233992 mS]
+[CS527 Peifeng] [Coverage: 46.30%] [Elapsed Time: 0:03:54 | 234594 mS]
+[CS527 Peifeng] [Coverage: 46.40%] [Elapsed Time: 0:03:55 | 235421 mS]
+[CS527 Peifeng] [Coverage: 46.76%] [Elapsed Time: 0:03:56 | 236264 mS]
+[CS527 Peifeng] [Coverage: 46.97%] [Elapsed Time: 0:03:56 | 236954 mS]
+[CS527 Peifeng] [Coverage: 47.13%] [Elapsed Time: 0:03:57 | 237775 mS]
+[CS527 Peifeng] [Coverage: 47.21%] [Elapsed Time: 0:03:58 | 238515 mS]
+[CS527 Peifeng] [Coverage: 47.28%] [Elapsed Time: 0:03:59 | 239288 mS]
+[CS527 Peifeng] [Coverage: 47.41%] [Elapsed Time: 0:04:00 | 240279 mS]
+[CS527 Peifeng] [Coverage: 47.49%] [Elapsed Time: 0:04:01 | 241086 mS]
+[CS527 Peifeng] Saving best population to /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/.evosuite-custom/population-com.github.kevinsawicki.http.HttpRequest.txt, population size: 51
+[CS527 Peifeng] Coverage of the population: 47.49%,47.42%,47.42%,47.42%,47.34%,47.42%,47.42%,47.45%,47.45%,47.45%,47.29%,47.29%,47.40%,47.40%,47.40%,47.40%,47.40%,47.40%,47.32%,47.32%,47.40%,47.32%,47.40%,47.40%,47.32%,47.32%,47.32%,47.40%,47.40%,47.40%,47.32%,47.40%,47.32%,47.32%,47.32%,47.40%,47.32%,47.40%,47.32%,47.32%,47.32%,47.27%,47.37%,47.29%,47.29%,47.29%,47.29%,47.35%,47.30%,47.30%,47.15%
+* Search finished after 271s and 70 generations, 22732 statements, best individual has fitness: 3403.182004933321
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 61%
+* Total number of goals: 706
+* Number of covered goals: 430
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 56%
+* Total number of goals: 463
+* Number of covered goals: 258
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 143
+* Number of covered goals: 143
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 60%
+* Total number of goals: 830
+* Number of covered goals: 500
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 12%
+* Total number of goals: 758
+* Number of covered goals: 91
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 83%
+* Total number of goals: 172
+* Number of covered goals: 143
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 42%
+* Total number of goals: 172
+* Number of covered goals: 72
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 49%
+* Total number of goals: 463
+* Number of covered goals: 228
+* Generated 223 tests with total length 662
+* Resulting test suite's coverage: 50% (average coverage for all fitness functions)
+* Generating assertions
+[MASTER] 05:37:06.907 [pool-2-thread-1] WARN  SimpleMutationAssertionGenerator - Assertion minimization is taking too long (0.68675% of time used, but only 48/223 tests minimized), falling back to using all assertions
+* Resulting test suite's mutation score: 2%
+* Compiling and checking tests
+[MASTER] 05:37:33.893 [pool-2-thread-1] WARN  TimeController - Phase ASSERTION_GENERATION lasted too long, 13 seconds more than allowed.
+* Permissions denied during test execution: 
+  - java.lang.RuntimePermission: 
+         writeFileDescriptor: 4
+* Writing JUnit test case 'HttpRequest_ESTest' to /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/.evosuite/tmp_2017_12_15_05_30_51/tests
+* Done!
+

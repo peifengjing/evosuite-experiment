@@ -1,0 +1,363 @@
+* Starting client
+* Connecting to master process on port 9920
+* Analyzing classpath: 
+  - /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/charsets.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/deploy.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/cldrdata.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/dnsns.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jaccess.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/jfxrt.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/localedata.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/nashorn.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunec.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/ext/zipfs.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/javaws.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfr.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jfxswt.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jsse.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/management-agent.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/plugin.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/resources.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/ant-javafx.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/dt.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/javafx-mx.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/jconsole.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/packager.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/sa-jdi.jar
+  - /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/lib/tools.jar
+  - /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/test-classes
+  - /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/target/classes
+  - /Users/Peifeng/.m2/repository/junit/junit/4.10/junit-4.10.jar
+  - /Users/Peifeng/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-server/8.1.9.v20130131/jetty-server-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-continuation/8.1.9.v20130131/jetty-continuation-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-http/8.1.9.v20130131/jetty-http-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-io/8.1.9.v20130131/jetty-io-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlet/8.1.9.v20130131/jetty-servlet-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-security/8.1.9.v20130131/jetty-security-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-servlets/8.1.9.v20130131/jetty-servlets-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-client/8.1.9.v20130131/jetty-client-8.1.9.v20130131.jar
+  - /Users/Peifeng/.m2/repository/org/eclipse/jetty/jetty-util/8.1.9.v20130131/jetty-util-8.1.9.v20130131.jar
+* Finished analyzing classpath
+* Generating tests for class com.github.kevinsawicki.http.HttpRequest
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 03:20:50.846 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/.evosuite/evosuite-seeds/com.github.kevinsawicki.http.HttpRequest.seed
+* Loaded 0 tests from /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/.evosuite/evosuite-seeds/com.github.kevinsawicki.http.HttpRequest.seed
+* Total number of test goals: 
+  - Line 706
+  - Branch 463
+  - Exception 0
+  - MutationFactory 830
+  - Output 758
+  - Method 172
+  - MethodNoException 172
+  - CBranchFitnessFactory 463
+* Using seed 1513336831232
+* Starting evolution
+[CS527 Peifeng] Starting to read population file
+
+Start Time: 2017-12-15T11:22:23.091Z
+[CS527 Peifeng] [Coverage: 48.35%] [Elapsed Time: 0:00:18 | 18626 mS]
+[CS527 Peifeng] [Coverage: 48.53%] [Elapsed Time: 0:00:39 | 39919 mS]
+[CS527 Peifeng] [Coverage: 48.61%] [Elapsed Time: 0:01:10 | 70129 mS]
+[CS527 Peifeng] [Coverage: 48.74%] [Elapsed Time: 0:01:23 | 83849 mS]
+[CS527 Peifeng] [Coverage: 48.91%] [Elapsed Time: 0:01:30 | 90483 mS]
+[CS527 Peifeng] [Coverage: 48.97%] [Elapsed Time: 0:01:38 | 98449 mS]
+[CS527 Peifeng] [Coverage: 49.12%] [Elapsed Time: 0:01:42 | 102525 mS]
+[CS527 Peifeng] [Coverage: 49.19%] [Elapsed Time: 0:01:46 | 106006 mS]
+[CS527 Peifeng] [Coverage: 49.22%] [Elapsed Time: 0:01:48 | 108222 mS]
+[CS527 Peifeng] [Coverage: 49.27%] [Elapsed Time: 0:01:51 | 111437 mS]
+[CS527 Peifeng] [Coverage: 49.27%] [Elapsed Time: 0:01:53 | 113761 mS]
+[CS527 Peifeng] [Coverage: 49.32%] [Elapsed Time: 0:01:55 | 115734 mS]
+[CS527 Peifeng] [Coverage: 49.35%] [Elapsed Time: 0:01:59 | 119891 mS]
+[CS527 Peifeng] [Coverage: 49.39%] [Elapsed Time: 0:02:02 | 122582 mS]
+[CS527 Peifeng] [Coverage: 49.43%] [Elapsed Time: 0:02:04 | 124682 mS]
+[CS527 Peifeng] [Coverage: 49.50%] [Elapsed Time: 0:02:06 | 126791 mS]
+[CS527 Peifeng] [Coverage: 49.50%] [Elapsed Time: 0:02:08 | 128772 mS]
+[CS527 Peifeng] [Coverage: 49.53%] [Elapsed Time: 0:02:10 | 130749 mS]
+[CS527 Peifeng] [Coverage: 49.63%] [Elapsed Time: 0:02:13 | 133822 mS]
+[CS527 Peifeng] [Coverage: 49.64%] [Elapsed Time: 0:02:15 | 135991 mS]
+[CS527 Peifeng] [Coverage: 49.65%] [Elapsed Time: 0:02:17 | 137799 mS]
+[CS527 Peifeng] [Coverage: 49.65%] [Elapsed Time: 0:02:19 | 139729 mS]
+[CS527 Peifeng] [Coverage: 49.65%] [Elapsed Time: 0:02:21 | 141343 mS]
+[CS527 Peifeng] [Coverage: 49.68%] [Elapsed Time: 0:02:23 | 143497 mS]
+[CS527 Peifeng] [Coverage: 49.68%] [Elapsed Time: 0:02:25 | 145469 mS]
+[CS527 Peifeng] [Coverage: 49.70%] [Elapsed Time: 0:02:27 | 147678 mS]
+[CS527 Peifeng] [Coverage: 49.70%] [Elapsed Time: 0:02:31 | 151953 mS]
+[CS527 Peifeng] [Coverage: 49.70%] [Elapsed Time: 0:02:40 | 160940 mS]
+[CS527 Peifeng] [Coverage: 49.72%] [Elapsed Time: 0:02:43 | 163926 mS]
+[CS527 Peifeng] [Coverage: 49.71%] [Elapsed Time: 0:02:46 | 166190 mS]
+[CS527 Peifeng] [Coverage: 49.75%] [Elapsed Time: 0:02:48 | 168421 mS]
+[CS527 Peifeng] [Coverage: 50.14%] [Elapsed Time: 0:02:54 | 174106 mS]
+[CS527 Peifeng] [Coverage: 50.14%] [Elapsed Time: 0:02:54 | 174503 mS]
+[CS527 Peifeng] Saving best population to /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/.evosuite-custom/population-com.github.kevinsawicki.http.HttpRequest.txt, population size: 51
+[CS527 Peifeng] Coverage of the population: 50.14%,50.09%,50.09%,50.09%,50.09%,50.09%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.09%,50.09%,50.09%,50.09%,50.09%,50.09%,50.09%,50.09%,50.09%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%,50.08%
+* Search finished after 294s and 33 generations, 43953 statements, best individual has fitness: 22668.529953766792
+* Writing sequences to pool
+[MASTER] 03:25:51.828 [pool-2-thread-1] WARN  TimeController - Phase SEARCH lasted too long, 35 seconds more than allowed.
+* Minimizing test suite
+[MASTER] 03:26:37.641 [pool-2-thread-1] WARN  TestSuiteMinimizer - Minimization timeout. Roll back to original test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 67%
+* Total number of goals: 706
+* Number of covered goals: 471
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 60%
+* Total number of goals: 463
+* Number of covered goals: 280
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 94
+* Number of covered goals: 94
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 65%
+* Total number of goals: 830
+* Number of covered goals: 539
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 12%
+* Total number of goals: 758
+* Number of covered goals: 89
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 72%
+* Total number of goals: 172
+* Number of covered goals: 123
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 38%
+* Total number of goals: 172
+* Number of covered goals: 65
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 53%
+* Total number of goals: 463
+* Number of covered goals: 245
+* Generated 140 tests with total length 1799
+* Resulting test suite's coverage: 50% (average coverage for all fitness functions)
+* Generating assertions
+[MASTER] 03:27:10.938 [pool-2-thread-1] WARN  SimpleMutationAssertionGenerator - Assertion minimization is taking too long (0.6860227272727273% of time used, but only 12/140 tests minimized), falling back to using all assertions
+* Resulting test suite's mutation score: 2%
+* Compiling and checking tests
+[MASTER] 03:27:58.929 [pool-2-thread-1] WARN  JUnitAnalyzer - Found unstable test named test0 -> class org.junit.ComparisonFailure: expected:<MD[1jb250ZW50MGDvdW5kYXD5MDZ]=> but was:<MD[Bjb250ZW50MGJvdW5kYXJ5MDA]=>
+[MASTER] 03:27:58.951 [pool-2-thread-1] WARN  JUnitAnalyzer - Failing test:
+ String string0 = HttpRequest.Base64.encode("00content0boundary00");
+assertEquals("MD1jb250ZW50MGDvdW5kYXD5MDZ=", string0);
+assertNotNull(string0);
+
+URL uRL0 = MockURL.getHttpExample();
+assertNotNull(uRL0);
+assertNull(uRL0.getQuery());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals((-1), uRL0.getDefaultPort());
+assertNull(uRL0.getRef());
+
+URL uRL1 = MockURL.URL(uRL0, "", (URLStreamHandler) null);
+assertTrue(uRL1.equals((Object)uRL0));
+assertNotNull(uRL1);
+assertNull(uRL0.getQuery());
+assertEquals((-1), uRL0.getPort());
+assertEquals("http", uRL0.getProtocol());
+assertNull(uRL0.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getHost());
+assertEquals("www.someFakeButWellFormedURL.org", uRL0.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toString());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL0.toExternalForm());
+assertEquals((-1), uRL0.getDefaultPort());
+assertNull(uRL0.getRef());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL1.toString());
+assertNull(uRL1.getRef());
+assertEquals((-1), uRL1.getDefaultPort());
+assertNull(uRL1.getQuery());
+assertEquals((-1), uRL1.getPort());
+assertEquals("http", uRL1.getProtocol());
+assertEquals("www.someFakeButWellFormedURL.org", uRL1.getHost());
+assertNull(uRL1.getUserInfo());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL1.toExternalForm());
+assertNotSame(uRL0, uRL1);
+assertNotSame(uRL1, uRL0);
+
+URL uRL2 = MockURL.getHttpExample();
+assertTrue(uRL2.equals((Object)uRL0));
+assertTrue(uRL2.equals((Object)uRL1));
+assertNotNull(uRL2);
+assertNull(uRL2.getQuery());
+assertEquals((-1), uRL2.getPort());
+assertEquals("http", uRL2.getProtocol());
+assertNull(uRL2.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toString());
+assertEquals((-1), uRL2.getDefaultPort());
+assertNull(uRL2.getRef());
+assertNotSame(uRL2, uRL1);
+assertNotSame(uRL2, uRL0);
+
+HttpRequest httpRequest0 = HttpRequest.options(uRL2);
+assertTrue(uRL2.equals((Object)uRL0));
+assertTrue(uRL2.equals((Object)uRL1));
+assertNotNull(httpRequest0);
+assertNull(uRL2.getQuery());
+assertEquals((-1), uRL2.getPort());
+assertEquals("http", uRL2.getProtocol());
+assertNull(uRL2.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toString());
+assertEquals((-1), uRL2.getDefaultPort());
+assertNull(uRL2.getRef());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertNotSame(uRL2, uRL1);
+assertNotSame(uRL2, uRL0);
+
+String[] stringArray0 = httpRequest0.headers("");
+assertTrue(uRL2.equals((Object)uRL0));
+assertTrue(uRL2.equals((Object)uRL1));
+assertNotNull(stringArray0);
+assertNull(uRL2.getQuery());
+assertEquals((-1), uRL2.getPort());
+assertEquals("http", uRL2.getProtocol());
+assertNull(uRL2.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toString());
+assertEquals((-1), uRL2.getDefaultPort());
+assertNull(uRL2.getRef());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertNotSame(uRL2, uRL1);
+assertNotSame(uRL2, uRL0);
+
+HttpRequest httpRequest1 = httpRequest0.proxyBasic("charset", "application/x-www-form-urlencoded");
+assertTrue(uRL2.equals((Object)uRL0));
+assertTrue(uRL2.equals((Object)uRL1));
+assertNotNull(httpRequest1);
+assertNull(uRL2.getQuery());
+assertEquals((-1), uRL2.getPort());
+assertEquals("http", uRL2.getProtocol());
+assertNull(uRL2.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toString());
+assertEquals((-1), uRL2.getDefaultPort());
+assertNull(uRL2.getRef());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertNotSame(uRL2, uRL1);
+assertNotSame(uRL2, uRL0);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest0);
+
+HttpRequest httpRequest2 = httpRequest1.userAgent("Cache-Control");
+assertTrue(uRL2.equals((Object)uRL0));
+assertTrue(uRL2.equals((Object)uRL1));
+assertNotNull(httpRequest2);
+assertNull(uRL2.getQuery());
+assertEquals((-1), uRL2.getPort());
+assertEquals("http", uRL2.getProtocol());
+assertNull(uRL2.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toString());
+assertEquals((-1), uRL2.getDefaultPort());
+assertNull(uRL2.getRef());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertEquals(8192, httpRequest2.bufferSize());
+assertTrue(httpRequest2.ignoreCloseExceptions());
+assertNotSame(uRL2, uRL1);
+assertNotSame(uRL2, uRL0);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest0);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest2, httpRequest1);
+assertSame(httpRequest2, httpRequest0);
+
+HttpRequest httpRequest3 = httpRequest1.useCaches(false);
+assertTrue(uRL2.equals((Object)uRL0));
+assertTrue(uRL2.equals((Object)uRL1));
+assertNotNull(httpRequest3);
+assertNull(uRL2.getQuery());
+assertEquals((-1), uRL2.getPort());
+assertEquals("http", uRL2.getProtocol());
+assertNull(uRL2.getUserInfo());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getHost());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toExternalForm());
+assertEquals("www.someFakeButWellFormedURL.org", uRL2.getAuthority());
+assertEquals("http://www.someFakeButWellFormedURL.org/fooExample", uRL2.toString());
+assertEquals((-1), uRL2.getDefaultPort());
+assertNull(uRL2.getRef());
+assertEquals(8192, httpRequest0.bufferSize());
+assertTrue(httpRequest0.ignoreCloseExceptions());
+assertTrue(httpRequest1.ignoreCloseExceptions());
+assertEquals(8192, httpRequest1.bufferSize());
+assertTrue(httpRequest3.ignoreCloseExceptions());
+assertEquals(8192, httpRequest3.bufferSize());
+assertNotSame(uRL2, uRL1);
+assertNotSame(uRL2, uRL0);
+assertSame(httpRequest0, httpRequest3);
+assertSame(httpRequest0, httpRequest2);
+assertSame(httpRequest0, httpRequest1);
+assertSame(httpRequest1, httpRequest3);
+assertSame(httpRequest1, httpRequest0);
+assertSame(httpRequest1, httpRequest2);
+assertSame(httpRequest3, httpRequest1);
+assertSame(httpRequest3, httpRequest0);
+assertSame(httpRequest3, httpRequest2);
+
+httpRequest0.form((Object) uRL2, (Object) uRL1, "00content0boundary00");
+
+[MASTER] 03:28:01.986 [pool-2-thread-1] WARN  JUnitAnalyzer - Found unstable test named test0 -> class org.junit.ComparisonFailure: expected:<TgG[U13LU]/w==> but was:<TgG[RB3LI]/w==>
+[MASTER] 03:28:01.987 [pool-2-thread-1] WARN  JUnitAnalyzer - Failing test:
+ byte[] byteArray0 = new byte[7];
+byteArray0[0] = (byte)78;
+byteArray0[1] = (byte)1;
+byteArray0[2] = (byte) (-111);
+byteArray0[3] = (byte)7;
+byteArray0[4] = (byte)114;
+byteArray0[5] = (byte) (-56);
+byteArray0[6] = (byte) (-1);
+String string0 = HttpRequest.Base64.encodeBytes(byteArray0);
+assertEquals("TgGU13LU/w==", string0);
+assertArrayEquals(new byte[] {(byte)78, (byte)1, (byte) (-111), (byte)7, (byte)114, (byte) (-56), (byte) (-1)}, byteArray0);
+assertNotNull(string0);
+
+Object[] objectArray0 = new Object[0];
+HttpRequest.head((CharSequence) "TgGRB3LI/w==", true, objectArray0);
+
+* Permissions denied during test execution: 
+  - java.lang.RuntimePermission: 
+         writeFileDescriptor: 6
+* Writing JUnit test case 'HttpRequest_ESTest' to /Users/Peifeng/Desktop/Study/Topics-in-Software-Engineering/project/evosuite/http-request/lib/.evosuite/tmp_2017_12_15_03_20_14/tests
+* Done!
+
